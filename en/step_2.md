@@ -9,36 +9,3 @@ Create a new sprite and then clone it to fill the stage with your creatures.
 </div>
 </div>
 
---- task ---
-
-
-
-[[[working-offline]]]
-
---- /task ---
-
---- task ---
-
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
-
---- /task ---
-
---- task ---
-
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
-
---- /task ---
-
---- collapse ---
-
-Each debug in a collapse or ingredient
-
---- /collapse ---
-
-
-
---- save ---

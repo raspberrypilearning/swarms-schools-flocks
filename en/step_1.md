@@ -1,59 +1,68 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Use Scratch to create a game that uses clones to make swarms of insects, schools of fish, flocks of birds, or any group of animals that you want.
 
-### What you will make
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Groups of animals**</span> such as swarms, schools and flocks will often move together in what might appear to be random ways, but when you look at the entire group, there will be some order in their movements.
+</p>
+
+You will:
++ Use clones to generate a group of animals
++ Use the random operator to allow clones to act individually
++ Give clones a game like objective.
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+--- task ---
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+
+### Try it 
+
+Move the mouse to direct the swarm of bees. Keep them away from the bat, and direct them towards the flowers so they can gather nectar. They'll fly back to their hive each time, and this will help generate more bees!
+
 </div>
+
+
+**Bee swarm**: [See inside](https://scratch.mit.edu/projects/546736449/editor)
+<div class="scratch-preview" style="margin-left: 15px;">
+<iframe src="https://scratch.mit.edu/projects/546736449/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+</div>
+
+--- /task ---
+
+### Get inspiration 
+
+You are going to make some design decisions to create your game. Think about what type of creature you want to clone, and what the creatures will do.
+
+--- task ---
+
+Explore these example projects to get more ideas:
+
+**Fish feeder**: [See inside](https://scratch.mit.edu/projects/546736569/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+<iframe src="https://scratch.mit.edu/projects/546736569/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+**Bird strike**: [See inside](https://scratch.mit.edu/projects/546736368/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+<iframe src="https://scratch.mit.edu/projects/546736368/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+### Get inspiration 
+
+You are going to make some design decisions to create your character. See inside example projects in [Scratch 3: Clones examples](https://scratch.mit.edu/studios/29971894/){:target="_blank"} Scratch studio.
+
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
 
-### Software
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---

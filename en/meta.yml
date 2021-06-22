@@ -7,5 +7,6 @@ copyedit: false
 last_tested: "2021-06-02"
 steps:
   - title: Introduction
-  - title: Create the creatures
-  - title: What next?
+  - title: Create your scrolling scene
+  - title: Add your clones
+  - title: Feed your clones

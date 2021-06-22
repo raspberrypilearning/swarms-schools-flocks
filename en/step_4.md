@@ -90,8 +90,7 @@ Add code so that your animals can eat their food. Eating the food should make it
 
 1. Generate more clones
 1. Increase the size of your clones
-1. ????
-
+1. Increase a score
 --- collapse ---
 ---
 title: Eat the food
@@ -120,10 +119,21 @@ hide
 
 --- collapse ---
 ---
-title: Grow a clone or make a new clone
+title: Grow a clone, make a new clone or increase a score
 ---
 
 This code will allow the clones to increase in size, each time they eat some food.
+
+```blocks3
+when I start as a clone
+forever
+if <touching animal v> then
+broadcast (eaten v)
+change size by (20)
+end
+```
+
+This will generate a new clone each time they eat some food.
 
 ```blocks3
 when I start as a clone
@@ -134,6 +144,19 @@ create clone of [myself v]
 end
 ```
 
+This will increase a score, when some food has been eaten
+
+```blocks3
+when flag clicked
+set [score v] to (0)
+
+when I start as a clone
+forever
+if <touching animal v> then
+broadcast (eaten v)
+change [score v] by (10)
+end
+```
 --- /collapse ---
 --- /task ---
 

@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add an introductory sentence. What will learners achieve by the end of this step?
+It's time to provide your animals with some food, and have them collect it.
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![bats flying towards the mouse pointer and collecting butterflies](images/step_4.gif){:width="300px"}
 </div>
 </div>
 
@@ -120,11 +120,19 @@ hide
 
 --- collapse ---
 ---
-title: Grow a clone
+title: Grow a clone or make a new clone
 ---
 
-This code will allow the 
+This code will allow the clones to increase in size, each time they eat some food.
 
+```blocks3
+when I start as a clone
+forever
+if <touching animal v> then
+broadcast (eaten v)
+create clone of [myself v]
+end
+```
 
 --- /collapse ---
 --- /task ---

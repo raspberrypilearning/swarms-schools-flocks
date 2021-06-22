@@ -55,7 +55,7 @@ set rotation style [left-right v]
 forever
 point in direction (pick random (0) to (360))
 repeat (10)
-wait (0.1)
+wait (0.1) seconds
 next costume
 move (20) steps
 if on edge, bounce
@@ -75,12 +75,12 @@ when flag clicked
 set rotation style [left-right v]
 forever
 set [left-right v] to (pick random (-1) to (1))
-if <(left-right) > (0)>
+if <(left-right) > (0)> then
 point in direction (90)
 else
 point in direction (-90)
 repeat (10)
-wait (0.1)
+wait (0.1) seconds
 next costume
 move (20) steps
 if on edge, bounce
@@ -95,9 +95,9 @@ if on edge, bounce
 To finish off, you can make the clones disappear when they come into contact with the predator. If you chose to add a score variable, then maybe the score is reduced each time. If you chose to make the clones increase in size when they eat some food, then maybe they can be reduced in size.
 
 ```blocks3
-when I start as clone
+when I start as a clone
 forever
-if <touching [predator v]>
+if <touching [predator v]> then
 change score by [-10] //choose this to reduce the score
 change size by [-10] //choose this to reduce the size
 delete this clone //choose this to remove the clone

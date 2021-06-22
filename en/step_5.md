@@ -98,7 +98,7 @@ To finish off, you can make the clones disappear when they come into contact wit
 when I start as a clone
 forever
 if <touching [predator v]> then
-change score by [-10] //choose this to reduce the score
+change [score v] by [-10] //choose this to reduce the score
 change size by [-10] //choose this to reduce the size
 delete this clone //choose this to remove the clone
 ```

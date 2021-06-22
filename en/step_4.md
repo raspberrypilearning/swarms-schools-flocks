@@ -91,6 +91,7 @@ Add code so that your animals can eat their food. Eating the food should make it
 1. Generate more clones
 1. Increase the size of your clones
 1. Increase a score
+
 --- collapse ---
 ---
 title: Eat the food
@@ -158,5 +159,6 @@ change [score v] by (10)
 end
 ```
 --- /collapse ---
+
 --- /task ---
 

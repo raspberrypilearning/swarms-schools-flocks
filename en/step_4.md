@@ -51,9 +51,9 @@ Adjust the `random`{:class='block3operators'} range to change how quickly the sp
 when flag clicked
 forever
 glide (pick random (1) to (2)) secs to (random position v)
---- /collapse ---
+```
 
---- /task ---
+--- /collapse ---
 
 --- collapse ---
 ---
@@ -82,6 +82,8 @@ end
 
 --- /collapse ---
 
+--- /task ---
+
 Now that your animals have something to eat, you can guide them with your mouse pointer to their food. The question is, what should happen when they reach the food?
 
 --- task ---
@@ -104,7 +106,7 @@ On your animal sprite add blocks so that when a clone touches the food sprite, i
 ```blocks3
 when I start as a clone
 forever
-if <touching animal v> then
+if <[touching animal v]> then
 broadcast (eaten v)
 end
 ```
@@ -128,7 +130,7 @@ This code will allow the clones to increase in size, each time they eat some foo
 ```blocks3
 when I start as a clone
 forever
-if <touching animal v> then
+if <[touching animal v]> then
 broadcast (eaten v)
 change size by (20)
 end
@@ -139,7 +141,7 @@ This will generate a new clone each time they eat some food.
 ```blocks3
 when I start as a clone
 forever
-if <touching animal v> then
+if <[touching animal v]> then
 broadcast (eaten v)
 create clone of [myself v]
 end
@@ -153,7 +155,7 @@ set [score v] to (0)
 
 when I start as a clone
 forever
-if <touching animal v> then
+if <touching [animal v]> then
 broadcast (eaten v)
 change [score v] by (10)
 end

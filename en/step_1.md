@@ -20,7 +20,7 @@ You will:
 
 ### Try it 
 
-Move the mouse to direct the swarm of bees. Keep them away from the bat, and direct them towards the flowers so they can gather nectar. They'll fly back to their hive each time, and this will help generate more bees!
+Move the mouse to direct the bats. Keep them away from the lion and the pterodactyl. Try and get them to eat the butterflies, to generate more bats.
 
 </div>
 

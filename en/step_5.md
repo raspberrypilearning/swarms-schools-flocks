@@ -5,7 +5,7 @@
 Now you can add a predator that will be able to eat a few of the clones.
 </div>
 <div>
-![a lion and a pterodactyl moving randomly in the scene and consuming bats](images/step_5.gif.png){:width="300px"}
+![a lion and a pterodactyl moving randomly in the scene and consuming bats](images/step_5.gif){:width="300px"}
 </div>
 </div>
 
@@ -21,7 +21,7 @@ Choose, upload or paint your predator sprite.
 
 --- task ---
 
-Add scrolling to your predator sprite, so that it appears to move as the background moves. You can `change x by`{:class='block3'motion } values to change the predators speed 
+Add scrolling to your predator sprite, so that it appears to move as the background moves. You can change the `change x by`{:class='block3motion' } values to change the predators speed.
 
 ```blocks3
 when flag clicked

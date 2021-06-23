@@ -25,9 +25,9 @@ Move the mouse to direct the swarm of bees. Keep them away from the bat, and dir
 </div>
 
 
-**Bee swarm**: [See inside](https://scratch.mit.edu/projects/546736449/editor)
+**Swarms, Schools and Flocks**: [See inside](https://scratch.mit.edu/projects/546736449/editor)
 <div class="scratch-preview" style="margin-left: 15px;">
-<iframe src="https://scratch.mit.edu/projects/546736449/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/547542437/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 </div>

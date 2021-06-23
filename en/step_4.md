@@ -106,7 +106,7 @@ On your animal sprite add blocks so that when a clone touches the food sprite, i
 ```blocks3
 when I start as a clone
 forever
-if <[touching animal v]> then
+if <touching [animal v]> then
 broadcast (eaten v)
 end
 ```
@@ -130,7 +130,7 @@ This code will allow the clones to increase in size, each time they eat some foo
 ```blocks3
 when I start as a clone
 forever
-if <[touching animal v]> then
+if <touching [animal v]> then
 broadcast (eaten v)
 change size by (20)
 end
@@ -141,7 +141,7 @@ This will generate a new clone each time they eat some food.
 ```blocks3
 when I start as a clone
 forever
-if <[touching animal v]> then
+if <touching [animal v]> then
 broadcast (eaten v)
 create clone of [myself v]
 end

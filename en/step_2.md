@@ -35,7 +35,7 @@ Either add additional sprites to your scene, that scroll when the mouse is moved
 
 --- collapse ---
 ---
-title: Convert a backdrop and make it scroll with mouse motion
+title: Convert a backdrop and make it scroll.
 ---
 
 ![backdrop converted to a sprite and scrolling left and right with the mouse pointer](images/scroll-background.gif)
@@ -48,7 +48,7 @@ Paint a new sprite and the paste the backdrop scene into the new sprite so it be
 
 ![paint sprite selected from the create new sprite menu](images/paint-sprite.png)
 
-To add scrolling behavior to your new sprite you can use the following scripts.
+To add scrolling behavior to your new sprite you can use the following scripts. You will need someway to say whether the sprite is moving left or right. In the example a broadcast is used, but this could be mouse position or key/button presses.
 
 ```blocks3
 when I receive [left v]

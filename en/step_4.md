@@ -32,10 +32,10 @@ Adjust the `random`{:class='block3operators'} ranges to change how often the spr
 when flag clicked
 forever
 hide
-wait (pick random (10) to (10)) seconds
+wait (pick random (1) to (10)) seconds
 show
 go to (random position v)
-wait (pick random (10) to (10)) seconds
+wait (pick random (1) to (10)) seconds
 ```
 
 --- /collapse ---
@@ -60,7 +60,7 @@ glide (pick random (1) to (2)) secs to (random position v)
 title: Make sprites scroll with mouse motion
 ---
 
-Add the following code to your sprite, to make it scroll left and right as the mouse is moved to either side of the screen. You can adjust the numbers to your liking.
+Add the following code to your sprite, to make it scroll left and right as the mouse is moved to either side of the screen.
 
 ```blocks3
 when flag clicked
@@ -79,6 +79,8 @@ if <(x position) < (-290)> then
 set x to (280)
 end
 ```
+
+**Test**: You need to test your code to make sure the scrolling speed is not too fast or slow. Also to make sure that the sprite leaves and reenters the screen correctly, as the values will be different depending on the size of your sprite.
 
 --- /collapse ---
 

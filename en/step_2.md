@@ -49,22 +49,27 @@ Paint a new sprite and the paste the backdrop scene into the new sprite so it be
 To add scrolling behavior to your new sprite you can use the following scripts. You will need to create a `scroll_x`{:class='block3variables'} variable.
 
 ```blocks3
-when flag clicked
-go to [back v] layer
-create clone of (myself v)
-go to x: (0) y: (0)
-set [scroll_x v] to (0)
-forever
-if <(mouse x) > (200)> then
-change [scroll_x v] by (5)
-end
-if <(mouse x) < (-200)> then
-change [scroll_x v] by (-5)
-go to x: ((scroll_x) mod (480)) y: (0)
+when I receive [left v]
+change x by (3)
 
-when I start as a clone
+when I receive [right v]
+change x by (-3)
+
+when I receive [start v]
+go to [back v] layer
+go to x: (0) y: (0)
+create clone of [myself v]
+change x by (460) 
+broadcast [scroll v]
+
+when I receive [scroll v]
 forever
-go to x: ((scroll_x) mod (-480)) y: (0)
+if <(x position) > (460)> then
+set x to (-460)
+end
+if <(x position) < (-460)> then
+set x to (460)
+end
 ```
 
 --- /collapse ---

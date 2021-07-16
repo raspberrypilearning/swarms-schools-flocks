@@ -17,6 +17,8 @@ Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scra
 
 --- /task ---
 
+Think about what type of scene you are going to create. You can even choose a few sprites now, to give yourself some inspiration. Then choose a backdrop that you think will fit the scene you are imagining.
+
 --- task ---
 
 Choose a fitting backdrop for your scene, that would match the environment where your animals would live.
@@ -46,7 +48,7 @@ Paint a new sprite and the paste the backdrop scene into the new sprite so it be
 
 ![paint sprite selected from the create new sprite menu](images/paint-sprite.png)
 
-To add scrolling behavior to your new sprite you can use the following scripts. You will need to create a `scroll_x`{:class='block3variables'} variable.
+To add scrolling behavior to your new sprite you can use the following scripts.
 
 ```blocks3
 when I receive [left v]

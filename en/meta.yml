@@ -12,7 +12,7 @@ steps:
   - title: Feed your clones
   - title: Add a predator
   - title: Reflection
-      knowledge_quiz:
+    knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3

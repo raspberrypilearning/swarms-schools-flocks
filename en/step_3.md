@@ -45,6 +45,7 @@ when flag clicked
 show
 repeat (20)
 create clone of [myself v]
+end
 hide
 ```
 
@@ -88,4 +89,10 @@ glide (pick random (1) to (2)) secs to x: ((pick random (-40) to (40)) + (mouse 
 
 --- /task ---
 
+--- task ---
 
+**Test**: Have a go at running your code. Do your clones behave as you expect? Do you need to alter the number of clones that are made, or the way they move?
+
+--- /task ---
+
+--- save ---

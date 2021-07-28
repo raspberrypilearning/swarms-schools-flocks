@@ -18,6 +18,6 @@ If you have a Scratch account, and have shared your 'Don't fall in' project, kee
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-To submit your project to our ['Don't fall in - Community'](https://scratch.mit.edu/studios/29601182){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our ['Swarms, schools and flocks - Community'](https://scratch.mit.edu/studios/30122177){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---

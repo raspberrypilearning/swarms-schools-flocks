@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Music maker](https://projects.raspberrypi.org/en/projects/music-maker) project. In this project, you will design your own digital music maker.
 
 --- print-only ---
 

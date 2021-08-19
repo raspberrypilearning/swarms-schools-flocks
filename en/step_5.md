@@ -5,23 +5,23 @@
 Now you can add a predator that will be able to eat a few of the clones.
 </div>
 <div>
-![a lion and a pterodactyl moving randomly in the scene and consuming bats](images/step_5.gif){:width="300px"}
+![A lion and a pterodactyl moving randomly in the scene and consuming bats.](images/step_5.gif){:width="300px"}
 </div>
 </div>
 
-You need to decide on the type of predator you want to choose, as this will decide the way it might move.
+You need to decide on the type of predator you want to choose, as this may affect the way it will move.
 
-A land based predator might move randomly back and forth along the ground, but a flying predator might move randomly through the air.
+A land-based predator might move randomly back and forth along the ground, but a flying predator might move randomly through the air.
 
 --- task ---
 
-Choose, upload or paint your predator sprite.
+Choose, upload, or paint your **predator** sprite.
 
 --- /task ---
 
 --- task ---
 
-Add scrolling to your predator sprite, so that it appears to move as the background moves. You can change the `change x by`{:class='block3motion' } values to change the predators speed.
+Add scrolling to your **predator** sprite, so that it appears to move as the background moves. You can change the `change x by`{:class='block3motion'} values to change the predator's speed.
 
 ```blocks3
 when flag clicked
@@ -98,9 +98,9 @@ To finish off, you can make the clones disappear when they come into contact wit
 when I start as a clone
 forever
 if <touching [predator v]> then
-change [score v] by [-10] //choose this to reduce the score
-change size by [-10] //choose this to reduce the size
-delete this clone //choose this to remove the clone
+change [score v] by [-10] //Choose this to reduce the score
+change size by [-10] //Choose this to reduce the size
+delete this clone //Choose this to remove the clone
 ```
 
 --- /task ---

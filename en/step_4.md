@@ -5,25 +5,25 @@
 It's time to provide your animals with some food, and have them collect it.
 </div>
 <div>
-![bats flying towards the mouse pointer and collecting butterflies](images/step_4.gif){:width="300px"}
+![Bats flying towards the mouse-pointer and collecting butterflies.](images/step_4.gif){:width="300px"}
 </div>
 </div>
 
-Now it's time to feed your animal clones, so the player can guide them to a food source.
+Now it's time to feed your animal clones; the player needs to guide them to a food source.
 
 --- task ---
 
-Choose, upload or draw a sprite to represent the food your animals will eat.
+Choose, upload, or draw a sprite to represent the food your animals will eat.
 
 --- /task ---
 
 --- task ---
 
-Make the food appear on the screen. It could appear in a random position and random times. It might move randomly around the screen. Maybe your animals' food does not move around, and it should scroll with the rest of the scenery.
+Make the food appear on the screen. It could appear in a random position and at random times. It might move randomly around the screen. Maybe your animals' food does not move around, but it should scroll with the rest of the scenery.
 
 --- collapse ---
 ---
-title: Make a sprite appear in a random position for a random time.
+title: Make a sprite appear in a random position for a random time
 ---
 
 Adjust the `random`{:class='block3operators'} ranges to change how often the sprite disappears and reappears.
@@ -45,7 +45,7 @@ wait (pick random (1) to (10)) seconds
 title: Move a sprite randomly around the screen
 ---
 
-Adjust the `random`{:class='block3operators'} range to change how quickly the sprite moves around the screen
+Adjust the `random`{:class='block3operators'} range to change how quickly the sprite moves around the screen.
 
 ```blocks3
 when flag clicked
@@ -60,7 +60,7 @@ glide (pick random (1) to (2)) secs to (random position v)
 title: Make sprites scroll with mouse motion
 ---
 
-Add the following code to your sprite, to make it scroll left and right as the mouse is moved to either side of the screen.
+Add the following code to your sprite to make it scroll left and right as the mouse is moved to either side of the screen.
 
 ```blocks3
 when flag clicked
@@ -80,17 +80,17 @@ set x to (280)
 end
 ```
 
-**Test**: You need to test your code to make sure the scrolling speed is not too fast or slow. Also to make sure that the sprite leaves and reenters the screen correctly, as the values will be different depending on the size of your sprite.
+**Test**: You need to test your code to make sure the scrolling speed is not too fast or too slow. Also make sure that the sprite leaves and reenters the screen correctly, as the values will be different depending on the size of your sprite.
 
 --- /collapse ---
 
 --- /task ---
 
-Now that your animals have something to eat, you can guide them with your mouse pointer to their food. The question is, what should happen when they reach the food?
+Now that your animals have something to eat, you can guide them with your mouse-pointer to their food. The question is, what should happen when they reach the food?
 
 --- task ---
 
-Add code so that your animals can eat their food. Eating the food should make it disappear and then here are some ideas for how it could help your animals.
+Add code so that your animals can eat their food. Eating the food should make it disappear; here are some ideas for what happens next and how it could help your animals.
 
 1. Generate more clones
 1. Increase the size of your clones
@@ -101,9 +101,9 @@ Add code so that your animals can eat their food. Eating the food should make it
 title: Eat the food
 ---
 
-A small addition to your code will make the it disappear when it is touched by a clone.
+A small addition to your code will make the food disappear when it is touched by a clone.
 
-On your animal sprite add blocks so that when a clone touches the food sprite, it broadcasts a message
+On your **animal** sprite, add blocks so that when a clone touches the **food** sprite, it broadcasts a message.
 
 ```blocks3
 when I start as a clone
@@ -113,7 +113,7 @@ broadcast (eaten v)
 end
 ```
 
-Then on the food sprite, hide it when it receives the broadcast.
+Then, on the **food** sprite, hide it when it receives the broadcast.
 
 ```blocks3
 when I receive [eaten v]
@@ -124,10 +124,10 @@ hide
 
 --- collapse ---
 ---
-title: Grow a clone, make a new clone or increase a score
+title: Grow a clone, make a new clone, or increase a score
 ---
 
-This code will allow the clones to increase in size, each time they eat some food.
+This code will allow the clones to increase in size each time they eat some food.
 
 ```blocks3
 when I start as a clone
@@ -149,7 +149,7 @@ create clone of [myself v]
 end
 ```
 
-This will increase a score, when some food has been eaten
+This will increase a score when some food has been eaten.
 
 ```blocks3
 when flag clicked

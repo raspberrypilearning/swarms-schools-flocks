@@ -35,7 +35,7 @@ Either add additional sprites to your scene, which scroll when the mouse is move
 
 --- collapse ---
 ---
-title: Convert a backdrop and make it scroll.
+title: Convert a backdrop and make it scroll
 ---
 
 ![A backdrop converted to a sprite and scrolling left and right with the mouse-pointer.](images/scroll-background.gif)

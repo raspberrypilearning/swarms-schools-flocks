@@ -2,14 +2,14 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-It's time to provide your animals with some food, and have them collect it.
+Now it's time to feed your animal clones; the player needs to guide them to a food source so they can collect it.
 </div>
 <div>
 ![Bats flying towards the mouse-pointer and collecting butterflies.](images/step_4.gif){:width="300px"}
 </div>
 </div>
 
-Now it's time to feed your animal clones; the player needs to guide them to a food source.
+
 
 --- task ---
 

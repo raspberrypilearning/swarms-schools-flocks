@@ -59,7 +59,7 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. See inside the example projects in [Scratch 3: Clones examples](https://scratch.mit.edu/studios/29971894/){:target="_blank"} Scratch studio.
+You are going to make some design decisions to create your game. See inside the example projects in [Scratch 3: Clones examples](https://scratch.mit.edu/studios/29971894/){:target="_blank"} Scratch studio.
 
 --- /print-only ---
 

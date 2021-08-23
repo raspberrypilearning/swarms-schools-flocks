@@ -40,14 +40,14 @@ end
 
 --- task ---
 
-Animate your predator so that it moves randomly on the stage, in addition to the scrolling.
+Animate your predator so that it moves randomly on the Stage, in addition to the scrolling.
 
 --- collapse ---
 ---
 title: Animate a randomly flying sprite
 ---
 
-The following blocks will cause a sprite to fly randomly around the stage. You can adjust the values to change the speed of the sprite.
+The following blocks will cause a sprite to fly randomly around the Stage. You can adjust the values to change the speed of the sprite.
 
 ```blocks3
 when flag clicked

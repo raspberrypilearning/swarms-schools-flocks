@@ -17,9 +17,9 @@ In this step, you will make some clones that will swarm, flock, or school togeth
 
 **Choose:** Choose an **animal** sprite. It is best to choose a sprite that represents a social animal, but the choice is up to you. If you prefer, you could draw your own sprite, or upload one to Scratch from a picture you have found online.
 
-[[[generic-scratch-add-sprite-from-file]]]
+[[[generic-scratch3-add-sprite-from-file]]]
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 

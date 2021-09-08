@@ -5,50 +5,50 @@
 Create a new scene and then have it scroll with the mouse motion.
 </div>
 <div>
-![animation showing background and foreground sprites scrolling](images/sprite-background-scroll.gif){:width="300px"}
+![Animation showing background and foreground sprites scrolling.](images/sprite-background-scroll.gif){:width="300px"}
 </div>
 </div>
  
  --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab
+Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
 --- /task ---
 
-Think about what type of scene you are going to create. You can even choose a few sprites now, to give yourself some inspiration. Then choose a backdrop that you think will fit the scene you are imagining.
+Think about what type of scene you will create. You can choose a few sprites now, to give yourself some inspiration. Then choose a backdrop that you think will fit the scene you are imagining.
 
 --- task ---
 
-Choose a fitting backdrop for your scene, that would match the environment where your animals would live.
+Choose a fitting backdrop for your scene, one that matches the environment where your animals would live.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
-Moving the mouse will add scrolling behavior to your game. You can either make foreground sprites move, or you can turn the backdrop into a sprite and have this move.
+You want it so that moving the mouse will allow scrolling behaviour in your game. You can either make the foreground sprites move, or you can turn the backdrop into a sprite and have this move.
 
 --- task ---
 
-Either add additional sprites to your scene, that scroll when the mouse is moved, or convert your backdrop into a sprite and have this scroll when the mouse moves.
+Either add additional sprites to your scene, which scroll when the mouse is moved, or convert your backdrop into a sprite and have this scroll when the mouse moves.
 
 --- collapse ---
 ---
-title: Convert a backdrop and make it scroll.
+title: Convert a backdrop and make it scroll
 ---
 
-![backdrop converted to a sprite and scrolling left and right with the mouse pointer](images/scroll-background.gif)
+![A backdrop converted to a sprite and scrolling left and right with the mouse-pointer.](images/scroll-background.gif)
 
 In the **Backdrops** paint editor, select the entire backdrop and then use the **Copy** menu item to copy the entire backdrop.
 
-![the backdrop has been selected and the copy menu item is shown in the top left](images/copy-backdrop.png)
+![The backdrop has been selected and the 'Copy' menu item is shown in the top left.](images/copy-backdrop.png)
 
-Paint a new sprite and the paste the backdrop scene into the new sprite so it becomes one of the costumes.
+Paint a new sprite and paste the backdrop scene into the new sprite so it becomes one of the costumes.
 
-![paint sprite selected from the create new sprite menu](images/paint-sprite.png)
+![Paint sprite selected from the 'Create New Sprite' menu.](images/paint-sprite.png)
 
-To add scrolling behavior to your new sprite you can use the following scripts. You will need someway to say whether the sprite is moving left or right. In the example a broadcast is used, but this could be mouse position or key/button presses.
+To add scrolling behaviour to your new sprite, you can use the following scripts. You will need some way to say whether the sprite is moving left or right. In the example, a broadcast is used, but this could be mouse position or key/button presses.
 
 ```blocks3
 when I receive [left v]
@@ -81,9 +81,9 @@ end
 title: Make sprites scroll with mouse motion
 ---
 
-![animation showing a tree scrolling as the mouse is moved](images/sprite-scroll.gif)
+![Animation showing a tree scrolling as the mouse is moved.](images/sprite-scroll.gif)
 
-Add the following code to your foreground sprite, to make it scroll left and right as the mouse is moved to either side of the screen. You can adjust the numbers to your liking.
+Add the following code to your foreground sprite to make it scroll left and right as the mouse is moved to either side of the screen. You can adjust the numbers to your liking.
 
 ```blocks3
 when flag clicked
@@ -109,7 +109,7 @@ end
 
 If you like, you can combine the two techniques.
 
-![animation showing background and foreground sprites scrolling](images/sprite-background-scroll.gif)
+![Animation showing background and foreground sprites scrolling.](images/sprite-background-scroll.gif)
 
 
 --- save ---

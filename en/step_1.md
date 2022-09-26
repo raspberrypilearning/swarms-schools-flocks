@@ -1,6 +1,6 @@
-## Introduction
+## You will make
 
-Use Scratch to create a game that uses clones to make swarms of insects, schools of fish, flocks of birds, or any group of animals that you want.
+Create a game that uses clones to make swarms of insects, schools of fish, flocks of birds, or any group of animals that you want.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Groups of animals**</span> such as swarms, schools, and flocks will often move together in what might appear to be random ways, but when you look at the entire group, there will be some order in their movements.
@@ -13,12 +13,12 @@ You will:
 
 --- no-print ---
 
+### Play ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-
-### Try it 
 
 Move the mouse to direct the bats. Keep them away from the lion and the pterodactyl. Try and get them to eat the butterflies, to generate more bats.
 
@@ -34,7 +34,7 @@ Move the mouse to direct the bats. Keep them away from the lion and the pterodac
 
 --- /task ---
 
-### Get inspiration 
+### Get ideas 💭
 
 You are going to make some design decisions to create your game. Think about what type of creature you want to clone, and what the creatures will do.
 
@@ -57,7 +57,7 @@ Explore these example projects to get more ideas:
 
 --- print-only ---
 
-### Get inspiration 
+### Get ideas 💭
 
 You are going to make some design decisions to create your game. See inside the example projects in or Scratch 3: Clones examples Scratch studio https://scratch.mit.edu/studios/29971894/){:target="_blank"}.
 

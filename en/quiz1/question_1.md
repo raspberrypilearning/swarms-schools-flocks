@@ -1,18 +1,8 @@
-## Reflection
+## Quick quiz
 
-Well done, you've used clones to make a game or simulation, and have learned about some useful blocks along the way, including:
+Answer the three questions. There are hints to guide you to the correct answer.
 
-```blocks3
-create clone of [myself v]
-
-when I start as clone
-
-delete this clone
-```
-
-Answer the three questions below to reflect on what you've learned.
-
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+When you have answered each question, click on **Check my answer**.
 
 Have fun!
 

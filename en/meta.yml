@@ -1,13 +1,12 @@
 ---
 title: Swarms, schools, and flocks
 hero_image: images/banner.png
-description:
-  Create a game that uses clones to make swarms, schools, flocks, or another
+description: Create a game that uses clones to make swarms, schools, flocks, or another
   group of animals.
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-06-02"
+last_tested: '2021-06-02'
 steps:
   - title: You will make
   - title: Create your scrolling scene

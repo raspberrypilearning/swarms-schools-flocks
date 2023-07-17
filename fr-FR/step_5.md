@@ -5,7 +5,7 @@
 Now you can add a predator that will be able to eat a few of the clones.
 </div>
 <div>
-![A lion and a pterodactyl moving randomly in the scene and consuming bats.](images/step_5.gif){:width="300px"}
+![Animation of a lion and a pterodactyl moving randomly in a scene with bats flying above them](images/step_5.gif){:width="300px"}
 </div>
 </div>
 

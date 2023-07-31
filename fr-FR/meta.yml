@@ -1,30 +1,30 @@
 ---
-title: Swarms, schools, and flocks
+title: Essaims, bancs et nuées
 hero_image: images/banner.png
-description: Create a game that uses clones to make swarms, schools, flocks, or another group of animals.
-meta_title: Scratch coding projects for kids and teens | Swarms and flocks
-meta_description: Learn Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Create a Scratch game that uses clones to make groups of animals.
+description: Créer un jeu qui utilise des clones pour créer des essaims, des bancs, des nuées ou un autre groupe d'animaux.
+meta_title: Projets de codage Scratch pour les enfants et les adolescents | Essaims et nuées
+meta_description: Apprendre Scratch avec les projets de codage de la Raspberry Pi Foundation pour les enfants et les adolescents. Créer un jeu Scratch qui utilise des clones pour créer des groupes d'animaux.
 version: 4
 listed: true
 copyedit: true
 last_tested: '2021-06-02'
 steps:
   - 
-    title: You will make
+    title: Ce que tu vas faire
   - 
-    title: Create your scrolling scene
+    title: Créer ta scène de défilement
   - 
-    title: Add your clones
+    title: Ajouter tes clones
     completion:
       - engaged
   - 
-    title: Feed your clones
+    title: Nourrir tes clones
   - 
-    title: Add a predator
+    title: Ajouter un prédateur
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Questionnaire rapide
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -33,8 +33,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share
+    title: Partager
   - 
-    title: What next?
+    title: Et ensuite ?

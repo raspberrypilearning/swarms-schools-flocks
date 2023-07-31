@@ -1,31 +1,31 @@
-## You will make
+## Ce que tu vas faire
 
-Create a game that uses clones to make swarms of insects, schools of fish, flocks of birds, or any group of animals that you want.
+Crée un jeu qui utilise des clones pour fabriquer des essaims d'insectes, des bancs de poissons, des nuées d'oiseaux ou tout groupe d'animaux que tu veux.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Groups of animals**</span> such as swarms, schools, and flocks will often move together in what might appear to be random ways, but when you look at the entire group, there will be some order in their movements.
+<span style="color: #0faeb0">**Des groupes d'animaux**</span> tels que des essaims, des bancs et des nuées se déplacent souvent ensemble de manière apparemment aléatoire, mais lorsque tu regardes l'ensemble du groupe, il y aura un certain ordre dans leurs mouvements.
 </p>
 
-You will:
-+ Use clones to generate a group of animals
-+ Use the random operator to allow clones to act individually
-+ Give clones a game-like objective
+Tu vas devoir :
++ Utiliser les clones pour générer un groupe d'animaux
++ Utiliser l'opérateur aléatoire pour permettre aux clones d'agir individuellement
++ Donner aux clones un objectif semblable à celui d'un jeu
 
 --- no-print ---
 
-### Play ▶️
+### Joue ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-Move the mouse to direct the bats. Keep them away from the lion and the pterodactyl. Try and get them to eat the butterflies, to generate more bats.
+Déplace la souris pour diriger les chauves-souris. Garde-les à l'écart du lion et du ptérodactyle. Essaie de les amener à manger les papillons, pour générer plus de chauves-souris.
 
 </div>
 
 
-**Swarms, schools, and flocks**: [See inside](https://scratch.mit.edu/projects/546736449/editor)
+** Essaims, bancs et nuées ** : [Voir à l'intérieur] (https://scratch.mit.edu/projects/546736449/editor)
 <div class="scratch-preview" style="margin-left: 15px;">
 <iframe src="https://scratch.mit.edu/projects/547542437/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -34,13 +34,13 @@ Move the mouse to direct the bats. Keep them away from the lion and the pterodac
 
 --- /task ---
 
-### Get ideas 💭
+### Trouver des idées 💭
 
-You are going to make some design decisions to create your game. Think about what type of creature you want to clone, and what the creatures will do.
+Tu vas prendre des décisions de conception pour créer ton jeu. Pense au type de créature que tu veux cloner et à ce que feront les créatures.
 
 --- task ---
 
-Explore these example projects to get more ideas:
+Explore ces exemples de projets pour obtenir plus d'idées :
 <div class="scratch-preview" style="margin-left: 15px;">
 <iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -52,13 +52,13 @@ Explore these example projects to get more ideas:
 
 --- print-only ---
 
-### Get ideas 💭
+### Trouver des idées 💭
 
-You are going to make some design decisions to create your game. See inside the example projects in or Scratch 3: Clones examples Scratch studio https://scratch.mit.edu/studios/29971894/){:target="_blank"}.
+Tu vas prendre des décisions de conception pour créer ton jeu. Voir à l'intérieur des exemples de projets dans Scratch 3 : exemples de clones Scratch studio https://scratch.mit.edu/studios/29971894/){:target="_blank"}.
 
-![Example of the swarms, schools and flocks project](images/swarms_bats.png)
+![Exemple du projet essaims, bancs et nuées](images/swarms_bats.png)
 
-![Example of the fish feeder project](images/swarms_fish.png)
+![Exemple de projet de mangeoire à poissons](images/swarms_fish.png)
 
 --- /print-only ---
 

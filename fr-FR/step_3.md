@@ -1,21 +1,21 @@
-## Add your clones
+## Ajouter tes clones
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make some clones that will swarm, flock, or school together.
+Dans cette étape, tu crées quelques clones qui se déplaceront ensemble.
 </div>
 <div>
-![Bats swarming towards the mouse-pointer.](images/swarming.gif){:width="300px"}
+![Des chauves-souris s'approchent du pointeur de la souris.](images/swarming.gif){:width="300px"}
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Social animals** tend to live in groups. Some examples can be found in species of bees, ants, birds, fish, and mammals such as cows and sheep.
+**Les animaux sociaux** ont tendance à vivre en groupe. Quelques exemples peuvent être trouvés dans des espèces d'abeilles, de fourmis, d'oiseaux, de poissons et de mammifères tels que les vaches et les moutons.
 </p>
 
 --- task ---
 
-**Choose:** Choose an **animal** sprite. It is best to choose a sprite that represents a social animal, but the choice is up to you. If you prefer, you could draw your own sprite, or upload one to Scratch from a picture you have found online.
+**Choisir :** Choisis un sprite **animal**. Il est préférable de choisir un sprite qui représente un animal social, mais le choix dépend de toi. Si tu préfères, tu peux dessiner ton propre sprite, ou en télécharger un sur Scratch à partir d'une photo que tu as trouvée en ligne.
 
 [[[generic-scratch3-add-sprite-from-file]]]
 
@@ -25,19 +25,19 @@ In this step, you will make some clones that will swarm, flock, or school togeth
 
 --- /task ---
 
-This sprite will have **lots** of clones, so it might be a little too big for the stage to begin with.
+Ton sprite reçoit **beaucoup** de clones, il est donc possible qu'il soit un peu trop grand au départ.
 
 --- task ---
 
-Change the size property of the sprite to a value you think is sensible.
+Change la propriété de taille du sprite à une valeur que tu penses raisonnable.
 
-![Sprite size property set to 10 percent.](images/resize-sprite.png)
+![La taille du sprite est défini à 10 pour cent.](images/resize-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-When the flag is clicked, your animal sprite should generate some clones, and then hide itself. **Choose**: You can choose how many clones are generated.
+Lorsque le drapeau est cliqué, ton sprite animal devrait générer des clones, puis se cacher. **Choisir** : Tu peux choisir le nombre de clones générés.
 
 ```blocks3
 when flag clicked
@@ -50,18 +50,18 @@ hide
 
 --- /task ---
 
-Your cloned animals now need to gather some food. To help them out, you can use your mouse-pointer to guide them.
+Tes animaux clonés doivent maintenant récolter de la nourriture. Pour les aider, tu peux utiliser le pointeur de ta souris pour les guider.
 
 --- task ---
 
-Add blocks so that the clones move towards the mouse-pointer in a random fashion.
+Ajoute des blocs pour que les clones se déplacent vers le pointeur de souris de manière aléatoire.
 
 --- collapse ---
 ---
-title: Gliding over a random time
+title: Glisser sur un temps aléatoire
 ---
 
-The following code will have the clones glide towards the mouse-pointer in a random time.
+Le code suivant fera glisser les clones vers le pointeur de souris dans un temps aléatoire.
 
 ```blocks3
 when I start as a clone
@@ -73,10 +73,10 @@ glide (pick random (1) to (3)) secs to (mouse-pointer v)
 
 --- collapse ---
 ---
-title: Gliding to the mouse-pointer with a random position
+title: Glisser vers le pointeur de la souris avec une position aléatoire
 ---
 
-The following code will have the clones glide towards the mouse-pointer, but will add some randomness to the position.
+Le code suivant fera glisser les clones vers le pointeur de souris, mais ajoutera un peu de hasard à la position.
 
 ```blocks3
 when I start as a clone
@@ -90,7 +90,7 @@ glide (pick random (1) to (2)) secs to x: ((pick random (-40) to (40)) + (mouse 
 
 --- task ---
 
-**Test**: Have a go at running your code. Do your clones behave as you expect? Do you need to alter the number of clones that are made, or the way they move?
+**Test** : Essaie d'exécuter ton code. Tes clones se comportent-ils comme prévu ? As-tu besoin de modifier le nombre de clones créés ou la façon dont ils se déplacent ?
 
 --- /task ---
 

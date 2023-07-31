@@ -1,18 +1,18 @@
-## Quick quiz
+## Questionnaire rapide
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Réponds aux trois questions. Il y a des indices pour te guider vers la bonne réponse.
 
-When you have answered each question, click on **Check my answer**.
+Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
-Have fun!
+Amuse-toi bien !
 
 --- question ---
 
 ---
-legend: Question 1 of 3
+legend: Question 1 sur 3
 ---
 
-Look at the following set of blocks.
+Regarde l'ensemble de blocs suivants.
 
 ```blocks3
 when flag clicked
@@ -22,23 +22,23 @@ create clone of [myself v]
 hide
 ```
 
-Which of the following best describes what these blocks do?
+Lequel des énoncés suivants décrit le mieux ce que font ces blocs ?
 
 --- choices ---
 
 - ( )
 
-When the flag is clicked, 50 hidden clones are created and the original sprite is shown.
+Lorsque le drapeau est cliqué, 50 clones cachés sont créés et le sprite original est affiché.
 
-  --- feedback --- No, the `show`{:class='block3looks'} and `hide`{:class='block3looks'} blocks only apply to the original sprite. The clones will all be visible. --- /feedback ---
+  --- feedback --- Non, les blocs `montrer`{:class='block3looks'} et `cacher`{:class='block3looks'} s'appliquent uniquement au sprite original. Les clones seront tous visibles. --- /feedback ---
 
 - ( )
 
-When the flag is clicked, 20 visible clones are created and the original sprite is hidden --- feedback --- No, the `repeat`{:class='block3control'} loop creates 50 clones. --- /feedback ---
+Lorsque le drapeau est cliqué, 20 clones visibles sont créés et le sprite original est caché --- feedback --- Non, la boucle `répéter`{:class='block3control'} crée 50 clones. --- /feedback ---
 
-- (x) When the flag is clicked, 50 visible clones are created and the original sprite is hidden. --- feedback --- Yes, 50 clones are created after the original sprite is shown, then the original sprite is hidden. --- /feedback ---
+- (x) Lorsque le drapeau est cliqué, 50 clones visibles sont créés et le sprite original est caché. --- feedback --- Oui, 50 clones sont créés après que le sprite original est affiché, puis le sprite original est caché. --- /feedback ---
 
-- ( ) When the flag is clicked, 50 hidden clones are created and the original sprite is hidden --- feedback --- No, as the original sprite is shown, when it is cloned, all the clones are visible. Then the original sprite is hidden. --- /feedback ---
+- ( ) Lorsque le drapeau est cliqué, 50 clones cachés sont créés et le sprite original est caché --- feedback --- Non, comme le sprite original est montré, quand il est cloné, tous les clones sont visibles. Puis le sprite original est caché. --- /feedback ---
 
 --- /choices ---
 

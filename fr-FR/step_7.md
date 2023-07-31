@@ -1,13 +1,13 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you can upgrade your project.
+Si tu as le temps, tu peux perfectionner ton projet.
 
-Here are some ideas you could try:
-- Add some sound or graphic effects to your project, to customise it
-- Add a timer to your project, so that after a minute the game ends, and the score is displayed
-- Add a variable to store the number of clones at the start, which reduces each time one is eaten, so the game ends when there are no more clones
-- Make your clones uneatable when they reach a certain size
+Voici quelques idées que tu pourrais essayer :
+- Ajouter quelques effets sonores ou graphiques à ton projet, pour le personnaliser
+- Ajouter un minuteur à ton projet, afin qu'après une minute le jeu se termine, et le score s'affiche
+- Ajouter une variable pour stocker le nombre de clones au début, qui diminue à chaque fois qu'un est mangé, alors le jeu se termine quand il n'y a plus de clones
+- Rendre tes clones immangeables lorsqu'ils atteignent une certaine taille
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Chaque exemple de projet dans [l'introduction](.) a un lien **Voir à l'intérieur** pour te permettre d'ouvrir le projet dans Scratch, examiner le code pour avoir des idées et voir comment ils fonctionnent.
 
 --- save ---

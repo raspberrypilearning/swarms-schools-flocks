@@ -1,54 +1,54 @@
-## Create your scrolling scene
+## Créer ta scène de défilement
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create a new scene and then have it scroll with the mouse motion.
+Crée une nouvelle scène, puis fais-la défiler avec le mouvement de la souris.
 </div>
 <div>
-![Animation showing background and foreground sprites scrolling.](images/sprite-background-scroll.gif){:width="300px"}
+![Animation montrant le défilement des sprites d'arrière-plan et de premier plan.](images/sprite-background-scroll.gif){:width="300px"}
 </div>
 </div>
 
  --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Ouvre un [nouveau projet Scratch](https://rpf.io/scratch-new){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 [[[working-offline]]]
 
 --- /task ---
 
-Think about what type of scene you will create. You can choose a few sprites now, to give yourself some inspiration. Then choose a backdrop that you think will fit the scene you are imagining.
+Pense au type de scène que tu vas créer. Tu peux choisir quelques sprites maintenant, pour te donner de l'inspiration. Puis choisis un arrière-plan qui, selon toi, conviendra à la scène que tu imagines.
 
 --- task ---
 
-Choose a fitting backdrop for your scene, one that matches the environment where your animals would live.
+Choisis un arrière-plan adapté à ta scène, qui correspond à l'environnement où vivraient tes animaux.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
-You want it so that moving the mouse will allow scrolling behaviour in your game. You can either make the foreground sprites move, or you can turn the backdrop into a sprite and have this move.
+Lorsque tu bouges ta souris, ton arrière-plan ou tes sprites doivent bouger aussi. Tu peux faire bouger les sprites de premier plan, ou changer l'arrière-plan en sprite et le faire bouger.
 
 --- task ---
 
-Either add additional sprites to your scene, which scroll when the mouse is moved, or convert your backdrop into a sprite and have this scroll when the mouse moves.
+Soit ajouter des sprites supplémentaires à ta scène, qui défilent lorsque la souris est déplacée, ou convertir ton arrière-plan en un sprite et à ce défilement lorsque la souris se déplace.
 
 --- collapse ---
 ---
-title: Convert a backdrop and make it scroll
+title: Convertir un arrière-plan et le faire défiler
 ---
 
-![A backdrop converted to a sprite and scrolling left and right with the mouse-pointer.](images/scroll-background.gif)
+![Un arrière-plan converti en sprite et défilant à gauche et à droite avec le pointeur de souris.](images/scroll-background.gif)
 
-In the **Backdrops** paint editor, select the entire backdrop and then use the **Copy** menu item to copy the entire backdrop.
+Dans l'éditeur de peinture **Arrière-plans**, sélectionne l'arrière-plan entier puis utilise l'élément du menu **Copier** pour copier l'arrière-plan entier.
 
-![The backdrop has been selected and the 'Copy' menu item is shown in the top left.](images/copy-backdrop.png)
+![L'arrière-plan a été sélectionné et l'élément de menu « Copier » est affiché en haut à gauche.](images/copy-backdrop.png)
 
-Paint a new sprite and paste the backdrop scene into the new sprite so it becomes one of the costumes.
+Peins un nouveau sprite et colle la scène de l'arrière-plan dans le nouveau sprite afin qu'il devienne l'un des costumes.
 
-![Paint sprite selected from the 'Create New Sprite' menu.](images/paint-sprite.png)
+![Peindre le sprite sélectionné dans le menu « Créer un nouveau sprite ».](images/paint-sprite.png)
 
-To add scrolling behaviour to your new sprite, you can use the following scripts. You will need some way to say whether the sprite is moving left or right. In the example, a broadcast is used, but this could be mouse position or key/button presses.
+Pour ajouter un comportement de défilement à ton nouveau sprite, tu peux utiliser les scripts suivants. Tu auras besoin d'un moyen de dire si le sprite se déplace vers la gauche ou vers la droite. Dans l’exemple, un « envoyer à tous » est utilisé, mais il peut s’agir de la position de la souris ou des touches ou des boutons.
 
 ```blocks3
 when I receive [left v]
@@ -78,12 +78,12 @@ end
 
 --- collapse ---
 ---
-title: Make sprites scroll with mouse motion
+title: Faire défiler les sprites avec le mouvement de la souris
 ---
 
-![Animation showing a tree scrolling as the mouse is moved.](images/sprite-scroll.gif)
+![Animation montrant un arbre défilant lorsque la souris est déplacée.](images/sprite-scroll.gif)
 
-Add the following code to your foreground sprite to make it scroll left and right as the mouse is moved to either side of the screen. You can adjust the numbers to your liking.
+Ajoute le code suivant à ton sprite de premier plan pour le faire défiler à gauche et à droite lorsque la souris est déplacée de chaque côté de l'écran. Tu peux ajuster les nombres à ton goût.
 
 ```blocks3
 when flag clicked
@@ -107,9 +107,9 @@ end
 
 --- /task ---
 
-If you like, you can combine the two techniques.
+Si tu le souhaites, tu peux combiner les deux techniques.
 
-![Animation showing background and foreground sprites scrolling.](images/sprite-background-scroll.gif)
+![Animation montrant le défilement des sprites d'arrière-plan et de premier plan.](images/sprite-background-scroll.gif)
 
 
 --- save ---

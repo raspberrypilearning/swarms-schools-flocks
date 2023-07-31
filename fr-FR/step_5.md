@@ -1,27 +1,27 @@
-## Add a predator
+## Ajouter un prédateur
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now you can add a predator that will be able to eat a few of the clones.
+Maintenant tu peux ajouter un prédateur qui pourra manger quelques clones.
 </div>
 <div>
-![Animation of a lion and a pterodactyl moving randomly in a scene with bats flying above them](images/step_5.gif){:width="300px"}
+![Animation d'un lion et d'un ptérodactyle se déplaçant aléatoirement dans une scène avec des chauves-souris volant au-dessus d'eux](images/step_5.gif){:width="300px"}
 </div>
 </div>
 
-You need to decide on the type of predator you want to choose, as this may affect the way it will move.
+Tu dois décider du type de prédateur que tu veux choisir, car cela peut affecter la façon dont il se déplacera.
 
-A land-based predator might move randomly back and forth along the ground, but a flying predator might move randomly through the air.
+Un prédateur terrestre peut se déplacer au hasard d'avant en arrière sur le sol, mais un prédateur volant peut se déplacer au hasard dans les airs.
 
 --- task ---
 
-Choose, upload, or paint your **predator** sprite.
+Choisis, télécharge ou peins ton sprite **prédateur**.
 
 --- /task ---
 
 --- task ---
 
-Add scrolling to your **predator** sprite, so that it appears to move as the background moves. You can change the `change x by`{:class='block3motion'} values to change the predator's speed.
+Ajoute un défilement à ton sprite **prédateur**, pour qu'il semble bouger lorsque l'arrière-plan se déplace. Tu peux mettre les valeurs `de x à`{:class='block3motion'} pour changer la vitesse du prédateur.
 
 ```blocks3
 when flag clicked
@@ -40,14 +40,14 @@ end
 
 --- task ---
 
-Animate your predator so that it moves randomly on the Stage, in addition to the scrolling.
+Anime ton prédateur pour qu'il se déplace aléatoirement sur la scène, en plus du défilement.
 
 --- collapse ---
 ---
-title: Animate a randomly flying sprite
+title: Animer un sprite volant au hasard
 ---
 
-The following blocks will cause a sprite to fly randomly around the Stage. You can adjust the values to change the speed of the sprite.
+Les blocs suivants feront voler un sprite au hasard autour de la scène. Tu peux ajuster les valeurs pour modifier la vitesse du sprite.
 
 ```blocks3
 when flag clicked
@@ -65,10 +65,10 @@ if on edge, bounce
 
 --- collapse ---
 ---
-title: Animate a randomly walking sprite
+title: Animer un sprite marchant de manière aléatoire
 ---
 
-The following blocks will make a sprite move randomly along the x axis (horizontally). You will need a variable to store if the sprite is moving left or right.
+Les blocs suivants feront bouger un sprite de manière aléatoire le long de l'axe x (horizontalement). Tu auras besoin d'une variable pour stocker si le sprite se déplace vers la gauche ou la droite.
 
 ```blocks3
 when flag clicked
@@ -92,7 +92,7 @@ if on edge, bounce
 
 --- task ---
 
-To finish off, you can make the clones disappear when they come into contact with the predator. If you chose to add a score variable, then maybe the score is reduced each time. If you chose to make the clones increase in size when they eat some food, then maybe they can be reduced in size.
+Pour finir, tu peux faire disparaître les clones lorsqu'ils entrent en contact avec le prédateur. Si tu as choisi d'ajouter une variable de score, le score sera peut-être réduit à chaque fois. Si tu as choisi de faire augmenter la taille des clones quand ils mangent de la nourriture, ils peuvent peut-être être réduits en taille.
 
 ```blocks3
 when I start as a clone

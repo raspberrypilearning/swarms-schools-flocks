@@ -18,7 +18,7 @@ Regarde l'ensemble de blocs suivants.
 when flag clicked
 show
 repeat (50)
-create clone of [myself v]
+create clone of [moi-même v]
 hide
 ```
 

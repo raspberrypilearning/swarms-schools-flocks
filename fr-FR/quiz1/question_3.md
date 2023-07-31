@@ -9,7 +9,7 @@ Les blocs suivants sont utilisés sur un sprite **abeille**, pour contrôler ce 
 ```blocks3
 quand je commence comme un clone
 répéter indéfiniment
-si <touching [flower v]> alors
+si <touching [fleur v]> alors
 créer un clone de [moi-même v]
 fin
 ```

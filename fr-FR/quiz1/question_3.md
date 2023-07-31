@@ -2,39 +2,39 @@
 --- question ---
 
 ---
-legend: Question 3 of 3
+legend: Question 3 sur 3
 ---
-The following blocks are used on a **bee** sprite, to control what happens when the *bee** touches a **flower** sprite.
+Les blocs suivants sont utilisés sur un sprite **abeille**, pour contrôler ce qui se passe lorsque l'*abeille** touche un sprite **fleurs**.
 
 ```blocks3
-when I start as a clone
-forever
-if <touching [flower v]> then
-create clone of [myself v]
-end
+quand je commence comme un clone
+répéter indéfiniment
+si <touching [flower v]> alors
+créer un clone de [moi-même v]
+fin
 ```
-Which of the following best describes what happens to the **bee**.
+Lequel des énoncés suivants décrit le mieux ce qui arrive à **l'abeille**.
 
 --- choices ---
 
 - ( )
 
-The **bee** clone is destroyed --- feedback --- No, that would require a `delete this clone`{:class='block3events'} block. --- /feedback ---
+Le clone **abeille** est détruit --- feedback --- Non, cela nécessiterait un bloc `supprimer ce clone`{:class='block3events'}. --- /feedback ---
 
 - ( )
 
-The **bee** clone will always move towards the flower. --- feedback --- No, these blocks do not control any `motion`{:class='block3motion'}
+Le clone **abeille** se dirigera toujours vers la fleur. --- feedback --- Non, ces blocs ne contrôlent aucun `mouvement`{:class='block3motion'}
   --- /feedback ---
 
 - (x)
 
-When the **bee** clone touches the flower, it creates a clone of itself.
+Lorsque le clone **abeille** touche la fleur, il crée un clone de lui-même.
 
-  --- feedback --- Yes, clones can create clones of themselves. --- /feedback ---
+  --- feedback --- Oui, les clones peuvent créer des clones d'eux-mêmes. --- /feedback ---
 
 - ( )
 
-Then the **bee** sprite touches the flower, it creates a clone of itself. --- feedback --- No, these blocks only control the behavior of the clones, not the original sprite. --- /feedback ---
+Puis le sprite **abeille** touche la fleur, il crée un clone de lui-même. --- feedback --- Non, ces blocs ne contrôlent que le comportement des clones, pas le sprite original. --- /feedback ---
 
 --- /choices ---
 

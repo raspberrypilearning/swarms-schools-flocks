@@ -51,20 +51,20 @@ Peins un nouveau sprite et colle la scène de l'arrière-plan dans le nouveau sp
 Pour ajouter un comportement de défilement à ton nouveau sprite, tu peux utiliser les scripts suivants. Tu auras besoin d'un moyen de dire si le sprite se déplace vers la gauche ou vers la droite. Dans l’exemple, un « envoyer à tous » est utilisé, mais il peut s’agir de la position de la souris ou des touches ou des boutons.
 
 ```blocks3
-when I receive [left v]
+when I receive [gauche v]
 change x by (3)
 
-when I receive [right v]
+when I receive [droite v]
 change x by (-3)
 
-when I receive [start v]
-go to [back v] layer
+when I receive [départ v]
+go to [arrière v] layer
 go to x: (0) y: (0)
-create clone of [myself v]
+create clone of [moi-même v]
 change x by (460) 
-broadcast [scroll v]
+broadcast [défilement v]
 
-when I receive [scroll v]
+when I receive [défilement v]
 forever
 if <(x position) > (460)> then
 set x to (-460)

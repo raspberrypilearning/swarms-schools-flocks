@@ -51,7 +51,7 @@ Les blocs suivants feront voler un sprite au hasard autour de la scène. Tu peux
 
 ```blocks3
 when flag clicked
-set rotation style [left-right v]
+set rotation style [gauche-droite v]
 forever
 point in direction (pick random (0) to (360))
 repeat (10)
@@ -72,10 +72,10 @@ Les blocs suivants feront bouger un sprite de manière aléatoire le long de l'a
 
 ```blocks3
 when flag clicked
-set rotation style [left-right v]
+set rotation style [gauche-droite v]
 forever
-set [left-right v] to (pick random (-1) to (1))
-if <(left-right) > (0)> then
+set [gauche-droite v] to (pick random (-1) to (1))
+if <(gauche-droite) > (0)> then
 point in direction (90)
 else
 point in direction (-90)
@@ -97,7 +97,7 @@ Pour finir, tu peux faire disparaître les clones lorsqu'ils entrent en contact 
 ```blocks3
 when I start as a clone
 forever
-if <touching [predator v]> then
+if <touching [prédateur v]> then
 change [score v] by [-10] //Choisis ceci pour réduire le score
 change size by [-10] //Choisis ceci pour réduire la taille
 delete this clone //Choisis ceci pour supprimer le clone

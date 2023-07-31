@@ -32,7 +32,7 @@ forever
 hide
 wait (pick random (1) to (10)) seconds
 show
-go to (random position v)
+go to (position aléatoire v)
 wait (pick random (1) to (10)) seconds
 ```
 
@@ -48,7 +48,7 @@ Ajuste la plage `aléatoire`{:class='block3operators'} pour modifier la vitesse 
 ```blocks3
 when flag clicked
 forever
-glide (pick random (1) to (2)) secs to (random position v)
+glide (pick random (1) to (2)) secs to (position aléatoire v)
 ```
 
 --- /collapse ---
@@ -107,14 +107,14 @@ Sur ton sprite **animal**, ajoute des blocs pour que lorsqu'un clone touche le s
 when I start as a clone
 forever
 if <touching [animal v]> then
-broadcast (eaten v)
+broadcast (mangé v)
 end
 ```
 
 Puis, sur le sprite **nourriture**, cache-le quand il reçoit la diffusion.
 
 ```blocks3
-when I receive [eaten v]
+when I receive [mangé v]
 hide
 ```
 
@@ -131,7 +131,7 @@ Ce code permettra aux clones d'augmenter leur taille à chaque fois qu'ils mange
 when I start as a clone
 forever
 if <touching [animal v]> then
-broadcast (eaten v)
+broadcast (mangé v)
 change size by (20)
 end
 ```
@@ -142,8 +142,8 @@ Cela générera un nouveau clone chaque fois qu'ils mangent de la nourriture.
 when I start as a clone
 forever
 if <touching [animal v]> then
-broadcast (eaten v)
-create clone of [myself v]
+broadcast (mangé v)
+create clone of [moi-même v]
 end
 ```
 
@@ -156,7 +156,7 @@ set [score v] to (0)
 when I start as a clone
 forever
 if <touching [animal v]> then
-broadcast (eaten v)
+broadcast (mangé v)
 change [score v] by (10)
 end
 ```

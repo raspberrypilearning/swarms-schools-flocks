@@ -43,7 +43,7 @@ Lorsque le drapeau est cliqué, ton sprite animal devrait générer des clones, 
 when flag clicked
 show
 repeat (20)
-create clone of [myself v]
+create clone of [moi-même v]
 end
 hide
 ```
@@ -66,7 +66,7 @@ Le code suivant fera glisser les clones vers le pointeur de souris dans un temps
 ```blocks3
 when I start as a clone
 forever
-glide (pick random (1) to (3)) secs to (mouse-pointer v)
+glide (pick random (1) to (3)) secs to (pointeur de souris v)
 ```
 
 --- /collapse ---

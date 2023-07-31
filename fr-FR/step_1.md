@@ -27,7 +27,7 @@ Déplace la souris pour diriger les chauves-souris. Garde-les à l'écart du lio
 
 **Essaims, bancs et nuées** : [Voir à l'intérieur](https://scratch.mit.edu/projects/878815851/editor)
 <div class="scratch-preview" style="margin-left: 15px;">
-<iframe src="https://scratch.mit.edu/projects/547542437/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/878815851/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -42,14 +42,14 @@ Tu vas prendre des décisions de conception pour créer ton jeu. Pense au type d
 
 Explore ces exemples de projets pour obtenir plus d'idées :
 
-**Mangeoire à poisson** : [Voir à l'intérieur](https://scratch.mit.edu/projects/546736569/editor){:target="_blank"}
+**Mangeoire à poisson** : [Voir à l'intérieur](https://scratch.mit.edu/projects/878853657/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-<iframe src="https://scratch.mit.edu/projects/546736569/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/878853657/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 **Impact d'oiseau** : [Voir à l'intérieur](https://scratch.mit.edu/projects/878819197/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-<iframe src="https://scratch.mit.edu/projects/546736368/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/878819197/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /task ---

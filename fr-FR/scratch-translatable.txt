@@ -1,19 +1,19 @@
-left
+gauche
 
-right
+droite
 
-start
+départ
 
-scroll
+défilement
 
-eaten
+mangé
 
 animal
 
 score
 
-left-right
+gauche-droite
 
-predator
+prédateur
 
-flower
+fleur

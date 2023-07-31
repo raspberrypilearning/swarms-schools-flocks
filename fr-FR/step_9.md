@@ -1,10 +1,10 @@
-## What next?
+## Et ensuite ?
 
-If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Music maker](https://projects.raspberrypi.org/en/projects/music-maker) project. In this project, you will design your own digital music maker.
+Si tu suis le parcours [Plus de Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch), tu peux passer au projet [Créateur de musique](https://projects.raspberrypi.org/en/projects/music-maker). Dans ce projet, tu vas concevoir ton propre créateur de musique numérique.
 
 --- print-only ---
 
-![Music maker project](images/music_maker.png)
+![Projet de créateur de musique](images/music_maker.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Further Scratch](https://projects.raspberrypi.org/en/p
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Si tu veux t'amuser davantage à explorer Scratch, tu peux essayer l'un de [ces projets](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).

@@ -1,0 +1,5 @@
+Choisis ceci pour réduire le score
+
+Choisis ceci pour réduire la taille
+
+Choisis ceci pour supprimer le clone

@@ -1,5 +1,5 @@
-Choose this to reduce the score
+Choisis ceci pour réduire le score
 
-Choose this to reduce the size
+Choisis ceci pour réduire la taille
 
-Choose this to remove the clone
+Choisis ceci pour supprimer le clone

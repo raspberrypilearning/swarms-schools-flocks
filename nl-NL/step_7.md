@@ -1,13 +1,13 @@
-## Upgrade your project
+## Verbeter je project
 
-If you have time, you can upgrade your project.
+Als je tijd hebt, kun je jouw project verbeteren.
 
-Here are some ideas you could try:
-- Add some sound or graphic effects to your project, to customise it
-- Add a timer to your project, so that after a minute the game ends, and the score is displayed
-- Add a variable to store the number of clones at the start, which reduces each time one is eaten, so the game ends when there are no more clones
-- Make your clones uneatable when they reach a certain size
+Hier zijn een paar andere ideeën die je zou kunnen proberen:
+- Voeg enkele geluids- of grafische effecten toe aan je project, om het naar je eigen smaak aan te passen
+- Voeg een timer toe aan je project, zodat bijvoorbeeld je spelletje eindigt na een minuut en de score wordt weergegeven
+- Voeg een variabele toe om het aantal klonen aan het begin op te slaan, dat vermindert elke keer dat er een wordt gegeten, zodat het spel eindigt als er geen klonen meer zijn
+- Maak je klonen oneetbaar wanneer ze een bepaalde grootte bereiken
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Elk voorbeeldproject in de [Inleiding](.) heeft een **Bekijk van binnen** link om het project in Scratch te openen en de code te bekijken om ideeën te krijgen en te zien hoe ze werken.
 
 --- save ---

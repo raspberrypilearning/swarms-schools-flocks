@@ -1,30 +1,30 @@
 ---
-title: Swarms, schools, and flocks
+title: Zwermen, scholen en kuddes
 hero_image: images/banner.png
-description: Create a game that uses clones to make swarms, schools, flocks, or another group of animals.
-meta_title: Scratch coding projects for kids and teens | Swarms and flocks
-meta_description: Learn Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Create a Scratch game that uses clones to make groups of animals.
+description: Maak een spel dat klonen gebruikt om zwermen, scholen, kuddes of een andere groep dieren te maken.
+meta_title: Scratch-programmeerprojecten voor kinderen en tieners | Zwermen en kuddes
+meta_description: Leer Scratch met de programmeerprojecten van de Raspberry Pi Foundation voor kinderen en tieners. Maak een spelletje met Scratch dat klonen gebruikt om groepen dieren te maken.
 version: 4
 listed: true
 copyedit: true
 last_tested: '2021-06-02'
 steps:
   - 
-    title: You will make
+    title: Wat ga je maken
   - 
-    title: Create your scrolling scene
+    title: Maak je bewegende scène
   - 
-    title: Add your clones
+    title: Voeg je klonen toe
     completion:
       - engaged
   - 
-    title: Feed your clones
+    title: Voer je klonen
   - 
-    title: Add a predator
+    title: Voeg een roofdier toe
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Snelle quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -33,8 +33,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: Share
+    title: Deel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?

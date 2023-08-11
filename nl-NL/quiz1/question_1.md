@@ -1,18 +1,18 @@
-## Quick quiz
+## Snelle quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Beantwoord de drie vragen. Er zijn tips om je naar het juiste antwoord te leiden.
 
-When you have answered each question, click on **Check my answer**.
+Klik na het beantwoorden van elke vraag op **Controleer mijn antwoord**.
 
-Have fun!
+Veel plezier!
 
 --- question ---
 
 ---
-legend: Question 1 of 3
+legend: Vraag 1 van 3
 ---
 
-Look at the following set of blocks.
+Kijk naar de volgende reeks blokken.
 
 ```blocks3
 when flag clicked
@@ -22,23 +22,23 @@ create clone of [myself v]
 hide
 ```
 
-Which of the following best describes what these blocks do?
+Welke van de volgende antwoorden beschrijft het best wat deze blokken doen?
 
 --- choices ---
 
 - ( )
 
-When the flag is clicked, 50 hidden clones are created and the original sprite is shown.
+Wanneer op de vlag wordt geklikt, worden 50 verborgen klonen gemaakt en wordt de oorspronkelijke sprite weergegeven.
 
-  --- feedback --- No, the `show`{:class='block3looks'} and `hide`{:class='block3looks'} blocks only apply to the original sprite. The clones will all be visible. --- /feedback ---
+  --- feedback --- Nee, de `verschijn`{:class='block3looks'} en `verdwijn`{:class='block3looks'} blokken zijn alleen van toepassing op de originele sprite. De klonen zullen allemaal zichtbaar zijn. --- /feedback ---
 
 - ( )
 
-When the flag is clicked, 20 visible clones are created and the original sprite is hidden --- feedback --- No, the `repeat`{:class='block3control'} loop creates 50 clones. --- /feedback ---
+Wanneer op de vlag wordt geklikt, worden 20 zichtbare klonen gemaakt en wordt de originele sprite verborgen --- feedback --- Nee, de lus `hehaal`{:class='block3control'} maakt 50 klonen. --- /feedback ---
 
-- (x) When the flag is clicked, 50 visible clones are created and the original sprite is hidden. --- feedback --- Yes, 50 clones are created after the original sprite is shown, then the original sprite is hidden. --- /feedback ---
+- (x) Wanneer op de vlag wordt geklikt, worden 50 zichtbare klonen gemaakt en wordt de originele sprite verborgen. --- feedback --- Ja, 50 klonen worden gemaakt nadat de originele sprite is weergegeven, dan wordt de originele sprite verborgen. --- /feedback ---
 
-- ( ) When the flag is clicked, 50 hidden clones are created and the original sprite is hidden --- feedback --- No, as the original sprite is shown, when it is cloned, all the clones are visible. Then the original sprite is hidden. --- /feedback ---
+- ( ) Wanneer op de vlag wordt geklikt, worden 50 verborgen klonen gemaakt en wordt de originele sprite verborgen --- feedback --- Nee, zoals de originele sprite wordt weergegeven, wanneer deze wordt gekloond, zijn alle klonen zichtbaar. Daarna verdwijnt de originele sprite. --- /feedback ---
 
 --- /choices ---
 

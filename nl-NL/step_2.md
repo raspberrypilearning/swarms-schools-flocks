@@ -1,54 +1,54 @@
-## Create your scrolling scene
+## Maak je bewegende scène
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create a new scene and then have it scroll with the mouse motion.
+Maak een nieuwe scène en laat hem daarna met de muis bewegen.
 </div>
 <div>
-![Animation showing background and foreground sprites scrolling.](images/sprite-background-scroll.gif){:width="300px"}
+![Animatie die achtergrond- en voorgrondsprites laat scrollen.](images/sprite-background-scroll.gif){:width="300px"}
 </div>
 </div>
 
  --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open een [nieuw Scratch-project](https://rpf.io/scratch-new){:target="_blank"}. Scratch opent in een ander browsertabblad.
 
 [[[working-offline]]]
 
 --- /task ---
 
-Think about what type of scene you will create. You can choose a few sprites now, to give yourself some inspiration. Then choose a backdrop that you think will fit the scene you are imagining.
+Denk na over wat voor soort scène je gaat maken. Je kunt nu een paar sprites kiezen om jezelf wat inspiratie te geven. Kies dan een achtergrond waarvan je denkt dat die past bij de scène die je hebt bedacht.
 
 --- task ---
 
-Choose a fitting backdrop for your scene, one that matches the environment where your animals would live.
+Kies een passende achtergrond voor je scène, een achtergrond die past bij de omgeving waar je dieren zouden leven.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
-You want it so that moving the mouse will allow scrolling behaviour in your game. You can either make the foreground sprites move, or you can turn the backdrop into a sprite and have this move.
+Het moet erop lijken dat als je je muis beweegt dat je achtergrond of sprites ook bewegen. Je kunt de sprites laten bewegen, of de achtergrond veranderen in een sprite en deze laten bewegen.
 
 --- task ---
 
-Either add additional sprites to your scene, which scroll when the mouse is moved, or convert your backdrop into a sprite and have this scroll when the mouse moves.
+Ofwel voeg extra sprites toe aan je scène, die bewegen wanneer de muis wordt verplaatst, of verander je achtergrond in een sprite die beweegt wanneer de muis beweegt.
 
 --- collapse ---
 ---
-title: Convert a backdrop and make it scroll
+title: Verander een achtergrond en laat hem bewegen
 ---
 
-![A backdrop converted to a sprite and scrolling left and right with the mouse-pointer.](images/scroll-background.gif)
+![Een achtergrond die veranderd is naar een sprite en naar links en rechts beweegt met de muisaanwijzer.](images/scroll-background.gif)
 
-In the **Backdrops** paint editor, select the entire backdrop and then use the **Copy** menu item to copy the entire backdrop.
+Selecteer in de paint editor van het tabblad **Achtergronden** de hele achtergrond en gebruik vervolgens het menu-item **Kopie maken** om de hele achtergrond te kopiëren.
 
-![The backdrop has been selected and the 'Copy' menu item is shown in the top left.](images/copy-backdrop.png)
+![De achtergrond is geselecteerd en linksboven wordt het menu-item 'Kopie maken' weergegeven.](images/copy-backdrop.png)
 
-Paint a new sprite and paste the backdrop scene into the new sprite so it becomes one of the costumes.
+Teken een nieuwe sprite en plak de achtergrond in de nieuwe sprite zodat het één van de uiterlijken wordt.
 
-![Paint sprite selected from the 'Create New Sprite' menu.](images/paint-sprite.png)
+![Teken sprite geslecteerd uit het menu "Kies een sprite".](images/paint-sprite.png)
 
-To add scrolling behaviour to your new sprite, you can use the following scripts. You will need some way to say whether the sprite is moving left or right. In the example, a broadcast is used, but this could be mouse position or key/button presses.
+Om je sprite te laten bewegen, kun je de volgende scripts gebruiken. Je moet op de een of ander manier aangeven of de sprite naar links of rechts beweegt. In het voorbeeld wordt het blok "zend signaal" gebruikt, maar dit kan de positie van de muis zijn of het indrukken van toetsen/knoppen.
 
 ```blocks3
 when I receive [left v]
@@ -78,12 +78,12 @@ end
 
 --- collapse ---
 ---
-title: Make sprites scroll with mouse motion
+title: Laat sprites bewegen met de muis
 ---
 
-![Animation showing a tree scrolling as the mouse is moved.](images/sprite-scroll.gif)
+![Animatie met een boom die beweegt terwijl de muis is verplaatst.](images/sprite-scroll.gif)
 
-Add the following code to your foreground sprite to make it scroll left and right as the mouse is moved to either side of the screen. You can adjust the numbers to your liking.
+Voeg de volgende code toe aan je voorgrond sprite om hem naar links en rechts te laten bewegen als de muis naar een van de zijkanten van het scherm wordt verplaatst. Je kunt de getallen naar je eigen smaak aanpassen.
 
 ```blocks3
 when flag clicked
@@ -107,9 +107,9 @@ end
 
 --- /task ---
 
-If you like, you can combine the two techniques.
+Als je wilt, kun je de twee technieken combineren.
 
-![Animation showing background and foreground sprites scrolling.](images/sprite-background-scroll.gif)
+![Animatie met bewegende achtergrond en voorgrond sprites.](images/sprite-background-scroll.gif)
 
 
 --- save ---

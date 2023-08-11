@@ -24,7 +24,6 @@ Beweeg de muis om de vleermuizen te sturen. Houd ze uit de buurt van de leeuw en
 
 </div>
 
-
 ** Zwermen, scholen en kuddes **: [Zie binnenkant] (https://scratch.mit.edu/projects/546736449/editor)
 <div class="scratch-preview" style="margin-left: 15px;">
 <iframe src="https://scratch.mit.edu/projects/547542437/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -41,11 +40,15 @@ Je gaat een aantal ontwerpbeslissingen nemen om je spelletje te creëren. Denk n
 --- task ---
 
 Bekijk deze voorbeeldprojecten om meer ideeën op te doen:
+
+**Fish feeder**: [See inside](https://scratch.mit.edu/projects/546736569/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/546736569/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+**Bird strike**: [See inside](https://scratch.mit.edu/projects/546736368/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/546736368/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /task --- --- /no-print ---
@@ -54,7 +57,7 @@ Bekijk deze voorbeeldprojecten om meer ideeën op te doen:
 
 ### Ideeën opdoen 💭
 
-Je gaat een aantal ontwerpbeslissingen nemen om je spelletje te creëren. Bekijk de voorbeeldprojecten in Scratch 3: Kloonvoorbeelden Scratch studio https://scratch.mit.edu/studios/29971894/){:target="_blank"}.
+Je gaat een aantal ontwerpbeslissingen nemen om je spelletje te creëren. See inside the example projects in or Scratch 3: Clones examples Scratch studio (https://scratch.mit.edu/studios/29971894/){:target="_blank"}.
 
 ![Voorbeeld van het zwermen, scholen en kuddes project](images/swarms_bats.png)
 

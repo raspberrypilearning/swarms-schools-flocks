@@ -2,39 +2,39 @@
 --- question ---
 
 ---
-legend: Question 3 of 3
+legend: Vraag 3 van 3
 ---
-The following blocks are used on a **bee** sprite, to control what happens when the *bee** touches a **flower** sprite.
+De volgende blokken worden gebruikt voor een **bij** sprite, om te bepalen wat er gebeurt als de *bij** een **bloemen** sprite aanraakt.
 
 ```blocks3
-when I start as a clone
-forever
-if <touching [flower v]> then
-create clone of [myself v]
-end
+wanneer ik als kloon start
+herhaal
+als <touching [flower v]> dan
+maak een kloon van [mijzelf]
+einde
 ```
-Which of the following best describes what happens to the **bee**.
+Welke van de volgende antwoorden beschrijft het best wat er gebeurt met de **bij**.
 
 --- choices ---
 
 - ( )
 
-The **bee** clone is destroyed --- feedback --- No, that would require a `delete this clone`{:class='block3events'} block. --- /feedback ---
+De **bij** kloon is vernietigd --- feedback --- Nee, daarvoor zou een `verwijder deze kloon`{:class='block3events'} blok nodig zijn. --- /feedback ---
 
 - ( )
 
-The **bee** clone will always move towards the flower. --- feedback --- No, these blocks do not control any `motion`{:class='block3motion'}
+De **bij** kloon zal altijd naar de bloem toe bewegen. --- feedback --- Nee, deze blokken besturen geen `beweging`{:class='block3motion'}
   --- /feedback ---
 
 - (x)
 
-When the **bee** clone touches the flower, it creates a clone of itself.
+Wanneer de **bij** kloon de bloem aanraakt, maakt het een kloon van zichzelf.
 
-  --- feedback --- Yes, clones can create clones of themselves. --- /feedback ---
+  --- feedback --- Ja, klonen kunnen klonen van zichzelf maken. --- /feedback ---
 
 - ( )
 
-Then the **bee** sprite touches the flower, it creates a clone of itself. --- feedback --- No, these blocks only control the behavior of the clones, not the original sprite. --- /feedback ---
+Wanneer de **bij** de bloem aanraakt, maakt het een kloon van zichzelf. --- feedback --- Nee, deze blokken regelen alleen het gedrag van de klonen, niet de originele sprite. --- /feedback ---
 
 --- /choices ---
 

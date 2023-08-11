@@ -24,7 +24,6 @@ Move the mouse to direct the bats. Keep them away from the lion and the pterodac
 
 </div>
 
-
 **Swarms, schools, and flocks**: [See inside](https://scratch.mit.edu/projects/546736449/editor)
 <div class="scratch-preview" style="margin-left: 15px;">
 <iframe src="https://scratch.mit.edu/projects/547542437/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -59,7 +58,7 @@ Explore these example projects to get more ideas:
 
 ### Get ideas 💭
 
-You are going to make some design decisions to create your game. See inside the example projects in or Scratch 3: Clones examples Scratch studio https://scratch.mit.edu/studios/29971894/){:target="_blank"}.
+You are going to make some design decisions to create your game. See inside the example projects in or Scratch 3: Clones examples Scratch studio (https://scratch.mit.edu/studios/29971894/){:target="_blank"}.
 
 ![Example of the swarms, schools and flocks project](images/swarms_bats.png)
 

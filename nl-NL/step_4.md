@@ -1,30 +1,30 @@
-## Feed your clones
+## Voer je klonen
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to feed your animal clones; the player needs to guide them to a food source so they can collect it.
+Nu is het tijd om je dierenklonen te voeren; de speler moet ze naar een voedselbron leiden, zodat ze het kunnen verzamelen.
 </div>
 <div>
-![Bats flying towards the mouse-pointer and collecting butterflies.](images/step_4.gif){:width="300px"}
+![Vleermuizen vliegen naar de muisaanwijzer en verzamelen vlinders.](images/step_4.gif){:width="300px"}
 </div>
 </div>
 
 --- task ---
 
-Choose, upload, or draw a sprite to represent the food your animals will eat.
+Kies, upload of teken een sprite om het voedsel te tonen dat je dieren eten.
 
 --- /task ---
 
 --- task ---
 
-Make the food appear on the screen. It could appear in a random position and at random times. It might move randomly around the screen. Maybe your animals' food does not move around, but it should scroll with the rest of the scenery.
+Laat het eten verschijnen op het scherm. Het kan op een willekeurige positie verschijnen en op willekeurige tijden. Het kan willekeurig over het scherm bewegen. Misschien beweegt het voer van je dieren niet, maar groeit het mee met de rest van het landschap.
 
 --- collapse ---
 ---
-title: Make a sprite appear in a random position for a random time
+title: Laat een sprite voor een willekeurige tijd op een willekeurige positie verschijnen
 ---
 
-Adjust the `random`{:class='block3operators'} ranges to change how often the sprite disappears and reappears.
+Pas de reeks`willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe vaak de sprite verdwijnt en weer verschijnt.
 
 ```blocks3
 when flag clicked
@@ -40,10 +40,10 @@ wait (pick random (1) to (10)) seconds
 
 --- collapse ---
 ---
-title: Move a sprite randomly around the screen
+title: Verplaats een sprite willekeurig over het scherm
 ---
 
-Adjust the `random`{:class='block3operators'} range to change how quickly the sprite moves around the screen.
+Pas de reeks`willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe snel de sprite over het scherm beweegt.
 
 ```blocks3
 when flag clicked
@@ -55,10 +55,10 @@ glide (pick random (1) to (2)) secs to (random position v)
 
 --- collapse ---
 ---
-title: Make sprites scroll with mouse motion
+title: Laat sprites bewegen met de muis
 ---
 
-Add the following code to your sprite to make it scroll left and right as the mouse is moved to either side of the screen.
+Voeg de volgende code toe aan je sprite om deze naar links en rechts te laten bewegen terwijl de muis naar een van beide kanten van het scherm wordt bewogen.
 
 ```blocks3
 when flag clicked
@@ -78,30 +78,30 @@ set x to (280)
 end
 ```
 
-**Test**: You need to test your code to make sure the scrolling speed is not too fast or too slow. Also make sure that the sprite leaves and reenters the screen correctly, as the values will be different depending on the size of your sprite.
+**Test**: Je moet je code testen om ervoor te zorgen dat de sprite niet te snel of te langzaam beweegt. Zorg er ook voor dat de sprite het scherm correct verlaat en weer binnenkomt, aangezien de waarden verschillen afhankelijk van de grootte van je sprite.
 
 --- /collapse ---
 
 --- /task ---
 
-Now that your animals have something to eat, you can guide them with your mouse-pointer to their food. The question is, what should happen when they reach the food?
+Nu je dieren iets te eten hebben, kun je ze met je muisaanwijzer naar hun eten leiden. De vraag is, wat moet er gebeuren als ze het voedsel bereiken?
 
 --- task ---
 
-Add code so that your animals can eat their food. Eating the food should make it disappear; here are some ideas for what happens next and how it could help your animals.
+Voeg code toe zodat je dieren hun voedsel kunnen eten. Als het voer wordt opgegeten zou het moeten verdwijnen; hier zijn enkele ideeën voor wat er daarna gebeurt en hoe dit je dieren kan helpen.
 
-1. Generate more clones
-1. Increase the size of your clones
-1. Increase a score
+1. Maak meer klonen
+1. Maak je klonen groter
+1. Verhoog een score
 
 --- collapse ---
 ---
-title: Eat the food
+title: Eet het voedsel
 ---
 
-A small addition to your code will make the food disappear when it is touched by a clone.
+Een kleine toevoeging aan je code zorgt ervoor dat het voedsel verdwijnt wanneer het wordt aangeraakt door een kloon.
 
-On your **animal** sprite, add blocks so that when a clone touches the **food** sprite, it broadcasts a message.
+Aan je **dieren** sprite voeg je blokken toe zodat wanneer een kloon de **voedsel** sprite raakt, deze een bericht uitzendt.
 
 ```blocks3
 when I start as a clone
@@ -111,7 +111,7 @@ broadcast (eaten v)
 end
 ```
 
-Then, on the **food** sprite, hide it when it receives the broadcast.
+Verberg dan de **voedsel** sprite wanneer deze het bericht ontvangt.
 
 ```blocks3
 when I receive [eaten v]
@@ -122,10 +122,10 @@ hide
 
 --- collapse ---
 ---
-title: Grow a clone, make a new clone, or increase a score
+title: Kweek een kloon, maak een nieuwe kloon of verhoog een score
 ---
 
-This code will allow the clones to increase in size each time they eat some food.
+Deze code maakt het mogelijk om de klonen groter te laten worden wanneer ze wat voedsel eten.
 
 ```blocks3
 when I start as a clone
@@ -136,7 +136,7 @@ change size by (20)
 end
 ```
 
-This will generate a new clone each time they eat some food.
+Er wordt een nieuwe kloon gemaakt elke keer als ze wat eten.
 
 ```blocks3
 when I start as a clone
@@ -147,7 +147,7 @@ create clone of [myself v]
 end
 ```
 
-This will increase a score when some food has been eaten.
+Dit zal de score doen toenemen wanneer ze van het voer eten.
 
 ```blocks3
 when flag clicked

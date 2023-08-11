@@ -1,23 +1,23 @@
-## Share
+## Deel
 
-If you're in a club, why not share your project with friends?
+Als je in een club zit, waarom deel je je project dan niet met vrienden?
 
-You could also show your family how your project works.
+Je kunt jouw familie ook laten zien hoe jouw project werkt.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how much fun you had.
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
 
-If you have a Scratch account, and have shared your 'Swarms, schools, and flocks' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Als je een Scratch-account hebt en je 'Zwermen, scholen en kuddes'-project hebt gedeeld, houd dan de opmerkingen in de gaten die anderen over je creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
 
-To submit your project to our [Swarms, schools, and flocks – Community](https://scratch.mit.edu/studios/30122177){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Om je project in te dienen bij onze [Zwermen, scholen en kuddes - Community](https://scratch.mit.edu/studios/30122177){:target="_blank"} Scratch studio, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"} in.
 
 --- /task ---

@@ -1,10 +1,10 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Music maker](https://projects.raspberrypi.org/en/projects/music-maker) project. In this project, you will design your own digital music maker.
+Als je het [Verder met Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pad volgt, kun je naar het [Muziekmaker](https://projects.raspberrypi.org/en/projects/music-maker) project gaan. In dit project ontwerp je je eigen digitale muziekmaker.
 
 --- print-only ---
 
-![Music maker project](images/music_maker.png)
+![Muziekmaker-project](images/music_maker.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Further Scratch](https://projects.raspberrypi.org/en/p
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Wil je nog meer plezier hebben met het verkennen van Scratch, dan kun je een van [deze projecten](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) proberen.

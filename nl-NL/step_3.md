@@ -1,21 +1,21 @@
-## Add your clones
+## Voeg je klonen toe
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make some clones that will swarm, flock, or school together.
+In deze stap maak je enkele klonen die samen zullen bewegen.
 </div>
 <div>
-![Bats swarming towards the mouse-pointer.](images/swarming.gif){:width="300px"}
+![Vleermuizen zwermen naar de muisaanwijzer.](images/swarming.gif){:width="300px"}
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Social animals** tend to live in groups. Some examples can be found in species of bees, ants, birds, fish, and mammals such as cows and sheep.
+**Sociale dieren** leven meestal in groepen. Enkele voorbeelden zijn bijen, mieren, vogels, vissen en zoogdieren zoals koeien en schapen.
 </p>
 
 --- task ---
 
-**Choose:** Choose an **animal** sprite. It is best to choose a sprite that represents a social animal, but the choice is up to you. If you prefer, you could draw your own sprite, or upload one to Scratch from a picture you have found online.
+**Kies:** Kies een **dieren** sprite. Je kan een dier kiezen dat in een groep leeft, maar de keuze is helemaal aan jou. Als je wilt, kun je je eigen sprite tekenen of er een naar Scratch uploaden vanuit een afbeelding die je online hebt gevonden.
 
 [[[generic-scratch3-add-sprite-from-file]]]
 
@@ -25,19 +25,19 @@ In this step, you will make some clones that will swarm, flock, or school togeth
 
 --- /task ---
 
-This sprite will have **lots** of clones, so it might be a little too big for the stage to begin with.
+Je sprite krijgt **heel veel** klonen, dus hij kan een beetje te groot zijn om mee te beginnen.
 
 --- task ---
 
-Change the size property of the sprite to a value you think is sensible.
+Verander de grootte van de sprite naar een formaat wat logisch is volgens jou.
 
-![Sprite size property set to 10 percent.](images/resize-sprite.png)
+![Sprite grootte ingesteld op 10 procent.](images/resize-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-When the flag is clicked, your animal sprite should generate some clones, and then hide itself. **Choose**: You can choose how many clones are generated.
+Wanneer op de vlag wordt geklikt, moet je dier een paar klonen genereren en zich vervolgens verbergen. **Kies**: Je kunt kiezen hoeveel klonen er worden gemaakt.
 
 ```blocks3
 when flag clicked
@@ -50,18 +50,18 @@ hide
 
 --- /task ---
 
-Your cloned animals now need to gather some food. To help them out, you can use your mouse-pointer to guide them.
+Je gekloonde dieren moeten nu wat voedsel verzamelen. Om ze te helpen kun je je muisaanwijzer gebruiken om ze te begeleiden.
 
 --- task ---
 
-Add blocks so that the clones move towards the mouse-pointer in a random fashion.
+Voeg blokken toe zodat de klonen op willekeurige wijze naar de muisaanwijzer bewegen.
 
 --- collapse ---
 ---
-title: Gliding over a random time
+title: een willekeurige tijd gebruiken om te vliegen
 ---
 
-The following code will have the clones glide towards the mouse-pointer in a random time.
+De volgende code laat de klonen in een willekeurige tijd naar de muisaanwijzer vliegen.
 
 ```blocks3
 when I start as a clone
@@ -73,10 +73,10 @@ glide (pick random (1) to (3)) secs to (mouse-pointer v)
 
 --- collapse ---
 ---
-title: Gliding to the mouse-pointer with a random position
+title: een willekeurige positie gebruiken om naar de muisaanwijzer te vliegen
 ---
 
-The following code will have the clones glide towards the mouse-pointer, but will add some randomness to the position.
+De volgende code laat de klonen naar de muisaanwijzer vliegen, maar op een willekeurige manier.
 
 ```blocks3
 when I start as a clone
@@ -90,7 +90,7 @@ glide (pick random (1) to (2)) secs to x: ((pick random (-40) to (40)) + (mouse 
 
 --- task ---
 
-**Test**: Have a go at running your code. Do your clones behave as you expect? Do you need to alter the number of clones that are made, or the way they move?
+**Test**: Probeer je code uit te voeren. Gedragen je klonen zich zoals je verwacht? Moet je het aantal gemaakte klonen of de manier waarop ze bewegen veranderen?
 
 --- /task ---
 

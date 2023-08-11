@@ -51,20 +51,20 @@ Teken een nieuwe sprite en plak de achtergrond in de nieuwe sprite zodat het Ã©Ã
 Om je sprite te laten bewegen, kun je de volgende scripts gebruiken. Je moet op de een of ander manier aangeven of de sprite naar links of rechts beweegt. In het voorbeeld wordt het blok "zend signaal" gebruikt, maar dit kan de positie van de muis zijn of het indrukken van toetsen/knoppen.
 
 ```blocks3
-when I receive [left]
+when I receive [links v]
 change x by (3)
 
-when I receive [right]
+when I receive [rechts v]
 change x by (-3)
 
-when I receive [start]
-go to [back] layer
+when I receive [start v]
+go to [achtergrond v] layer
 go to x: (0) y: (0)
-create clone of [myself]
+create clone of [mijzelf v]
 change x by (460) 
-broadcast [scroll]
+broadcast [scrollen v]
 
-when I receive [scroll]
+when I receive [scrollen v]
 forever
 if <(x position) > (460)> then
 set x to (-460)

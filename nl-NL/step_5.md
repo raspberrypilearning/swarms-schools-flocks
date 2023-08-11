@@ -65,7 +65,7 @@ if on edge, bounce
 
 --- collapse ---
 ---
-titel: Animeer een willekeurig lopende sprite
+title: Animeer een willekeurig lopende sprite
 ---
 
 De volgende blokken laten een sprite willekeurig bewegen langs de x-as (horizontaal). Je hebt een variabele nodig waarin je opslaat of de sprite naar links of rechts beweegt.

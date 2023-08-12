@@ -24,7 +24,7 @@ Laat het eten verschijnen op het scherm. Het kan op een willekeurige positie ver
 title: Laat een sprite voor een willekeurige tijd op een willekeurige positie verschijnen
 ---
 
-Pas de reeks`willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe vaak de sprite verdwijnt en weer verschijnt.
+Pas de reeks `willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe vaak de sprite verdwijnt en weer verschijnt.
 
 ```blocks3
 when flag clicked
@@ -43,7 +43,7 @@ wait (pick random (1) to (10)) seconds
 title: Verplaats een sprite willekeurig over het scherm
 ---
 
-Pas de reeks`willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe snel de sprite over het scherm beweegt.
+Pas de reeks `willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe snel de sprite over het scherm beweegt.
 
 ```blocks3
 when flag clicked
@@ -122,7 +122,7 @@ hide
 
 --- collapse ---
 ---
-title: Kweek een kloon, maak een nieuwe kloon of verhoog een score
+title: Maak een kloon groter, maak een nieuwe kloon of verhoog een score
 ---
 
 Deze code maakt het mogelijk om de klonen groter te laten worden wanneer ze wat voedsel eten.

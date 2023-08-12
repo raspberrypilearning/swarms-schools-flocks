@@ -34,7 +34,7 @@ Wanneer op de vlag wordt geklikt, worden 50 verborgen klonen gemaakt en wordt de
 
 - ( )
 
-Wanneer op de vlag wordt geklikt, worden 20 zichtbare klonen gemaakt en wordt de originele sprite verborgen --- feedback --- Nee, de lus `hehaal`{:class='block3control'} maakt 50 klonen. --- /feedback ---
+Wanneer op de vlag wordt geklikt, worden 20 zichtbare klonen gemaakt en wordt de originele sprite verborgen --- feedback --- Nee, de lus `herhaal`{:class='block3control'} maakt 50 klonen. --- /feedback ---
 
 - (x) Wanneer op de vlag wordt geklikt, worden 50 zichtbare klonen gemaakt en wordt de originele sprite verborgen. --- feedback --- Ja, 50 klonen worden gemaakt nadat de originele sprite is weergegeven, dan wordt de originele sprite verborgen. --- /feedback ---
 

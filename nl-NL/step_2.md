@@ -21,7 +21,7 @@ Denk na over wat voor soort scène je gaat maken. Je kunt nu een paar sprites ki
 
 --- task ---
 
-Kies een passende achtergrond voor je scène, een achtergrond die past bij de omgeving waar je dieren zouden leven.
+Kies een passende achtergrond voor je scène, een achtergrond die past bij de omgeving waarin je dieren zouden leven.
 
 [[[generic-scratch3-backdrop-from-library]]]
 

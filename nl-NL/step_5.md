@@ -40,7 +40,7 @@ end
 
 --- task ---
 
-Animeer je roofdier zodat het willekeurig op het speelveld komt, naast het bewegen.
+Animeer je roofdier zodat het willekeurig over het speelveld beweegt, naast het verschuiven.
 
 --- collapse ---
 ---

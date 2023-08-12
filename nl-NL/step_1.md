@@ -3,7 +3,7 @@
 Maak een spel dat klonen gebruikt om zwermen insecten, scholen vissen, zwermen vogels of elke gewenste groep dieren te maken.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Groepen dieren**</span> zoals zwerm, scholen en kuddes bewegen zich vaak samen op wat een willekeurige manier lijkt te zijn, maar als je naar de hele groep kijkt, zie je toch wat orde in hun bewegingen.
+<span style="color: #0faeb0">**Groepen dieren**</span> zoals zwermen, scholen en kuddes bewegen zich vaak samen op wat een willekeurige manier lijkt te zijn, maar als je naar de hele groep kijkt, zie je toch wat orde in hun bewegingen.
 </p>
 
 Je gaat:
@@ -24,7 +24,7 @@ Beweeg de muis om de vleermuizen te sturen. Houd ze uit de buurt van de leeuw en
 
 </div>
 
-** Zwermen, scholen en kuddes **: [Zie binnenkant] (https://scratch.mit.edu/projects/546736449/editor)
+** Zwermen, scholen en kuddes **: [Bekijk van binnen] (https://scratch.mit.edu/projects/546736449/editor)
 <div class="scratch-preview" style="margin-left: 15px;">
 <iframe src="https://scratch.mit.edu/projects/547542437/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>

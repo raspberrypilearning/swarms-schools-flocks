@@ -4,7 +4,7 @@
 ---
 legend: Vraag 3 van 3
 ---
-De volgende blokken worden gebruikt voor een **bij** sprite, om te bepalen wat er gebeurt als de *bij**een**bloemen** sprite aanraakt.
+De volgende blokken worden gebruikt voor een **bij** sprite, om te bepalen wat er gebeurt als de **bij** een **bloemen** sprite aanraakt.
 
 ```blocks3
 wanneer ik als kloon start

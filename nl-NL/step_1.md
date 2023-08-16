@@ -24,7 +24,7 @@ Beweeg de muis om de vleermuizen te sturen. Houd ze uit de buurt van de leeuw en
 
 </div>
 
-** Zwermen, scholen en kuddes **: [Bekijk van binnen] (https://scratch.mit.edu/projects/546736449/editor)
+**Swarms, schools, and flocks**: [See inside](https://scratch.mit.edu/projects/547542437/editor)
 <div class="scratch-preview" style="margin-left: 15px;">
 <iframe src="https://scratch.mit.edu/projects/547542437/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>

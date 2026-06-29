@@ -2,7 +2,7 @@
 --- question ---
 
 ---
-legend: Vraag 2 van 3
+legend: Question 2 of 3
 ---
 
 Welke van de volgende blokken code zouden een kloon voortdurend in een willekeurige richting laten bewegen gedurende een willekeurige tijd?

@@ -1,27 +1,27 @@
-## Add a predator
+## Πρόσθεσε έναν θηρευτή
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now you can add a predator that will be able to eat a few of the clones.
+Τώρα μπορείς να προσθέσεις έναν θηρευτή που θα μπορεί να φάει μερικούς από τους κλώνους.
 </div>
 <div>
-![Animation of a lion and a pterodactyl moving randomly in a scene with bats flying above them](images/step_5.gif){:width="300px"}
+![Κινούμενη εικόνα ενός λιονταριού και ενός πτεροδάκτυλου που κινούνται τυχαία σε μια σκηνή με νυχτερίδες να πετούν από πάνω τους](images/step_5.gif){:width="300px"}
 </div>
 </div>
 
-You need to decide on the type of predator you want to choose, as this may affect the way it will move.
+Πρέπει να αποφασίσεις για τον τύπο του θηρευτή που θέλεις να επιλέξεις, καθώς αυτό μπορεί να επηρεάσει τον τρόπο που θα κινηθεί.
 
-A land-based predator might move randomly back and forth along the ground, but a flying predator might move randomly through the air.
+Ένας χερσαίος θηρευτής μπορεί να κινείται τυχαία μπρος-πίσω στο έδαφος, αλλά ένα ιπτάμενος θηρευτής μπορεί να κινείται τυχαία στον αέρα.
 
 --- task ---
 
-Choose, upload, or paint your **predator** sprite.
+Διάλεξε, ανέβασε ή ζωγράφισε το αντικείμενο σου **θηρευτής**.
 
 --- /task ---
 
 --- task ---
 
-Add scrolling to your **predator** sprite, so that it appears to move as the background moves. You can change the `change x by`{:class='block3motion'} values to change the predator's speed.
+Πρόσθεσε κύλιση στο αντικείμενο **θηρευτής**, έτσι ώστε να φαίνεται ότι κινείται καθώς κινείται το υπόβαθρο. Μπορείς να αλλάξεις τις τιμές `άλλαξε x κατά`{:class='block3motion'} για να αλλάξεις την ταχύτητα του θηρευτή.
 
 ```blocks3
 when flag clicked
@@ -40,14 +40,14 @@ end
 
 --- task ---
 
-Animate your predator so that it moves randomly on the Stage, in addition to the scrolling.
+Κίνησε τον θηρευτή σου έτσι ώστε να κινείται τυχαία στη Σκηνή, μαζί με την κύλιση.
 
 --- collapse ---
 ---
-title: Animate a randomly flying sprite
+title: Κίνηση σε ένα αντικείμενο που πετάει τυχαία
 ---
 
-The following blocks will cause a sprite to fly randomly around the Stage. You can adjust the values to change the speed of the sprite.
+Τα ακόλουθα μπλοκ θα προκαλέσουν ένα αντικείμενο να πετάξει τυχαία γύρω από το Σκηνικό. Μπορείς να προσαρμόσεις τις τιμές για να αλλάξεις την ταχύτητα του αντικειμένου.
 
 ```blocks3
 when flag clicked
@@ -65,10 +65,10 @@ if on edge, bounce
 
 --- collapse ---
 ---
-title: Animate a randomly walking sprite
+title: Κίνηση σε ένα αντικείμενο που περπατά τυχαία
 ---
 
-The following blocks will make a sprite move randomly along the x axis (horizontally). You will need a variable to store if the sprite is moving left or right.
+Τα ακόλουθα μπλοκ θα κάνουν ένα αντικείμενο να κινείται τυχαία κατά μήκος του άξονα x (οριζόντια). Θα χρειαστείς μια μεταβλητή για να αποθηκεύσεις αν το αντικείμενο κινείται αριστερά ή δεξιά.
 
 ```blocks3
 when flag clicked
@@ -92,7 +92,7 @@ if on edge, bounce
 
 --- task ---
 
-To finish off, you can make the clones disappear when they come into contact with the predator. If you chose to add a score variable, then maybe the score is reduced each time. If you chose to make the clones increase in size when they eat some food, then maybe they can be reduced in size.
+Για να ολοκληρώσεις, μπορείς να εξαφανίσεις τους κλώνους όταν έρθουν σε επαφή με τον θηρευτή. Εάν επέλεξες να προσθέσεις μια μεταβλητή σκορ, τότε ίσως το σκορ να μειώνεται κάθε φορά. Αν επέλεξες να κάνεις τους κλώνους να αυξάνουν σε μέγεθος όταν τρώνε κάποια τροφή, τότε ίσως μπορούν να μειωθούν σε μέγεθος.
 
 ```blocks3
 when I start as a clone

@@ -2,9 +2,9 @@
 --- question ---
 
 ---
-legend: Question 3 of 3
+legend: Ερώτηση 3 από 3
 ---
-The following blocks are used on a **bee** sprite, to control what happens when the *bee** touches a **flower** sprite.
+Τα ακόλουθα μπλοκ χρησιμοποιούνται σε ένα αντικείμενο **μέλισσας**, για να ελέγξουν τι συμβαίνει όταν η *μέλισσα** αγγίζει ένα αντικείμενο **λουλουδιού**.
 
 ```blocks3
 when I start as a clone
@@ -13,28 +13,28 @@ if <touching [flower v]> then
 create clone of [myself v]
 end
 ```
-Which of the following best describes what happens to the **bee**.
+Ποιο από τα παρακάτω περιγράφει καλύτερα τι συμβαίνει στην **μέλισσα**.
 
 --- choices ---
 
 - ( )
 
-The **bee** clone is destroyed --- feedback --- No, that would require a `delete this clone`{:class='block3events'} block. --- /feedback ---
+Ο κλώνος της **μέλισσας** καταστρέφεται --- feedback --- Όχι, αυτό θα απαιτούσε ένα μπλοκ `διάγραψε αυτόν τον κλώνο`{:class='block3events'}. --- /feedback ---
 
 - ( )
 
-The **bee** clone will always move towards the flower. --- feedback --- No, these blocks do not control any `motion`{:class='block3motion'}
+Ο κλώνος της **μέλισσας** θα κινείται πάντα προς το λουλούδι. --- feedback --- Όχι, αυτά τα μπλοκ δεν ελέγχουν καμία `κίνηση`{:class='block3motion'}
   --- /feedback ---
 
 - (x)
 
-When the **bee** clone touches the flower, it creates a clone of itself.
+Όταν ο κλώνος της **μέλισσας** αγγίξει το λουλούδι, δημιουργεί έναν κλώνο του εαυτού του.
 
-  --- feedback --- Yes, clones can create clones of themselves. --- /feedback ---
+  --- feedback --- Ναι, οι κλώνοι μπορούν να δημιουργήσουν κλώνους του εαυτού τους. --- /feedback ---
 
 - ( )
 
-Then the **bee** sprite touches the flower, it creates a clone of itself. --- feedback --- No, these blocks only control the behavior of the clones, not the original sprite. --- /feedback ---
+Στη συνέχεια, το αντικείμενο **μέλισσα** αγγίζει το λουλούδι και δημιουργεί έναν κλώνο του εαυτού του. --- feedback --- Όχι, αυτά τα μπλοκ ελέγχουν μόνο τη συμπεριφορά των κλώνων, όχι του αρχικού αντικειμένου. --- /feedback ---
 
 --- /choices ---
 

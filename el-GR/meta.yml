@@ -1,30 +1,30 @@
 ---
-title: Swarms, schools, and flocks
+title: Σμήνη, κοπάδια και αγέλες
 hero_image: images/banner.png
-description: Create a game that uses clones to make swarms, schools, flocks, or another group of animals.
-meta_title: Scratch coding projects for kids and teens | Swarms and flocks
-meta_description: Learn Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Create a Scratch game that uses clones to make groups of animals.
+description: Δημιούργησε ένα παιχνίδι που χρησιμοποιεί κλώνους για να φτιάξει σμήνη, κοπάδια, αγέλες ή άλλη ομάδα ζώων.
+meta_title: Έργα προγραμματισμού Scratch για παιδιά και εφήβους | Σμήνη και αγέλες
+meta_description: Μάθε Scratch με τα έργα κώδικα του Raspberry Pi Foundation για παιδιά και εφήβους. Δημιούργησε ένα παιχνίδι με Scratch που χρησιμοποιεί κλώνους για να δημιουργήσει ομάδες ζώων.
 version: 4
 listed: true
 copyedit: true
 last_tested: '2021-06-02'
 steps:
   - 
-    title: You will make
+    title: Θα φτιάξεις
   - 
-    title: Create your scrolling scene
+    title: Δημιουργία της σκηνή κύλισης
   - 
-    title: Add your clones
+    title: Πρόσθεσε τους κλώνους σου
     completion:
       - engaged
   - 
-    title: Feed your clones
+    title: Τάισε τους κλώνους σου
   - 
-    title: Add a predator
+    title: Πρόσθεσε έναν θηρευτή
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Γρήγορο κουίζ
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -33,8 +33,6 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Αναβάθμισε το έργο σου
   - 
-    title: Share
-  - 
-    title: What next?
+    title: Μοιράσου

@@ -1,10 +1,10 @@
-## What next?
+## Τι υπάρχει στη συνέχεια;
 
-If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Music maker](https://projects.raspberrypi.org/en/projects/music-maker) project. In this project, you will design your own digital music maker.
+Αν ακολουθείς το μονοπάτι [Περαιτέρω Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch), μπορείς να μεταβείς στο έργο [Δημιουργός μουσικής](https://projects.raspberrypi.org/en/projects/music-maker). Σε αυτό το έργο, θα σχεδιάσεις τον δικό σου δημιουργό ψηφιακής μουσικής.
 
 --- print-only ---
 
-![Music maker project](images/music_maker.png)
+![Έργο δημιουργίας μουσικής](images/music_maker.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Further Scratch](https://projects.raspberrypi.org/en/p
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Αν θέλεις να διασκεδάσεις περισσότερο εξερευνώντας το Scratch, τότε θα μπορούσες να δοκιμάσεις οποιοδήποτε από [αυτά τα έργα](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).

@@ -1,13 +1,13 @@
-## Upgrade your project
+## Αναβάθμισε το έργο σου
 
-If you have time, you can upgrade your project.
+Εάν έχεις χρόνο, μπορείς να αναβαθμίσεις το έργο σου.
 
-Here are some ideas you could try:
-- Add some sound or graphic effects to your project, to customise it
-- Add a timer to your project, so that after a minute the game ends, and the score is displayed
-- Add a variable to store the number of clones at the start, which reduces each time one is eaten, so the game ends when there are no more clones
-- Make your clones uneatable when they reach a certain size
+Εδώ είναι μερικές ιδέες που μπορείς να δοκιμάσεις:
+- Πρόσθεσε κάποια ηχητικά ή γραφικά εφέ στο έργο σου, για να το διαφοροποιήσεις
+- Πρόσθεσε ένα χρονόμετρο στο έργο σου, έτσι ώστε μετά από ένα λεπτό να τελειώνει το παιχνίδι και να εμφανίζεται το σκορ
+- Πρόσθεσε μια μεταβλητή για να αποθηκεύσεις το πλήθος των κλώνων στην αρχή, ο οποίος μειώνεται κάθε φορά που τρώγεται ένας, έτσι ώστε το παιχνίδι να τελειώνει όταν δεν υπάρχουν άλλοι κλώνοι
+- Κάνε τους κλώνους σου να μην μπορεί να φαγωθούν όταν φτάσουν σε ένα συγκεκριμένο μέγεθος
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Κάθε παράδειγμα έργου στην [Εισαγωγή](.) έχει έναν σύνδεσμο **Δες μέσα** για να ανοίξεις το έργο και να δεις τον κώδικα για να πάρεις ιδέες και να δεις πώς λειτουργούν.
 
 --- save ---

@@ -44,7 +44,7 @@ Anime ton prédateur pour qu'il se déplace aléatoirement sur la scène, en plu
 
 --- collapse ---
 ---
-title: Animer un sprite volant au hasard
+title: Animate a randomly flying sprite
 ---
 
 Les blocs suivants feront voler un sprite au hasard autour de la scène. Tu peux ajuster les valeurs pour modifier la vitesse du sprite.
@@ -65,7 +65,7 @@ if on edge, bounce
 
 --- collapse ---
 ---
-title: Animer un sprite marchant de manière aléatoire
+title: Animate a randomly walking sprite
 ---
 
 Les blocs suivants feront bouger un sprite de manière aléatoire le long de l'axe x (horizontalement). Tu auras besoin d'une variable pour stocker si le sprite se déplace vers la gauche ou la droite.

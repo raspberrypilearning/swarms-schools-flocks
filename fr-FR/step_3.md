@@ -58,7 +58,7 @@ Ajoute des blocs pour que les clones se déplacent vers le pointeur de souris de
 
 --- collapse ---
 ---
-title: Glisser sur un temps aléatoire
+title: Gliding over a random time
 ---
 
 Le code suivant fera glisser les clones vers le pointeur de souris dans un temps aléatoire.
@@ -73,7 +73,7 @@ glide (pick random (1) to (3)) secs to (mouse-pointer v)
 
 --- collapse ---
 ---
-title: Glisser vers le pointeur de la souris avec une position aléatoire
+title: Gliding to the mouse-pointer with a random position
 ---
 
 Le code suivant fera glisser les clones vers le pointeur de souris, mais ajoutera un peu de hasard à la position.

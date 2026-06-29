@@ -1,18 +1,18 @@
-## Quick quiz
+## Γρήγορο Κουίζ
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Απάντησε στις τρεις ερωτήσεις. Υπάρχουν στοιχεία που θα σε οδηγήσουν στη σωστή απάντηση.
 
-When you have answered each question, click on **Check my answer**.
+Όταν απαντήσεις σε κάθε ερώτηση, πάτησε στο ** Έλεγξε την απάντησή μου**.
 
-Have fun!
+Καλή διασκέδαση!
 
 --- question ---
 
 ---
-legend: Question 1 of 3
+legend: Ερώτηση 1 από 3
 ---
 
-Look at the following set of blocks.
+Κοίταξε το ακόλουθο σύνολο από μπλοκ.
 
 ```blocks3
 when flag clicked
@@ -22,23 +22,23 @@ create clone of [myself v]
 hide
 ```
 
-Which of the following best describes what these blocks do?
+Ποιο από τα παρακάτω περιγράφει καλύτερα τι κάνουν αυτά τα μπλοκ;
 
 --- choices ---
 
 - ( )
 
-When the flag is clicked, 50 hidden clones are created and the original sprite is shown.
+Όταν γίνει κλικ στη σημαία, δημιουργούνται 50 κρυμμένοι κλώνοι και εμφανίζεται το αρχικό αντικείμενο.
 
-  --- feedback --- No, the `show`{:class='block3looks'} and `hide`{:class='block3looks'} blocks only apply to the original sprite. The clones will all be visible. --- /feedback ---
+  --- feedback --- Όχι, τα μπλοκ `εμφανίσου`{:class='block3looks'} και `εξαφανίσου`{:class='block3looks'} ισχύουν μόνο για το αρχικό αντικείμενο. Οι κλώνοι θα είναι όλοι ορατοί. --- /feedback ---
 
 - ( )
 
-When the flag is clicked, 20 visible clones are created and the original sprite is hidden --- feedback --- No, the `repeat`{:class='block3control'} loop creates 50 clones. --- /feedback ---
+Όταν γίνει κλικ στη σημαία, δημιουργούνται 20 ορατοί κλώνοι και το αρχικό αντικείμενο είναι κρυμμένο --- feedback --- Όχι, ο βρόχος `επανάλαβε`{:class='block3control'} δημιουργεί 50 κλώνους. --- /feedback ---
 
-- (x) When the flag is clicked, 50 visible clones are created and the original sprite is hidden. --- feedback --- Yes, 50 clones are created after the original sprite is shown, then the original sprite is hidden. --- /feedback ---
+- (x) Όταν γίνει κλικ στη σημαία, δημιουργούνται 50 ορατοί κλώνοι και το αρχικό αντικείμενο είναι κρυμμένο. --- feedback --- Ναι, δημιουργούνται 50 κλώνοι αφού εμφανιστεί το αρχικό αντικείμενο και στη συνέχεια το αρχικό αντικείμενο εξαφανίζεται. --- /feedback ---
 
-- ( ) When the flag is clicked, 50 hidden clones are created and the original sprite is hidden --- feedback --- No, as the original sprite is shown, when it is cloned, all the clones are visible. Then the original sprite is hidden. --- /feedback ---
+- ( ) Όταν γίνει κλικ στη σημαία, δημιουργούνται 50 κρυφοί κλώνοι και το αρχικό αντικείμενο εξαφανίζεται --- feedback --- Όχι, καθώς εμφανίζεται το αρχικό αντικείμενο, όταν κλωνοποιηθεί, όλοι οι κλώνοι είναι ορατοί. Στη συνέχεια, το αρχικό αντικείμενο είναι κρυμμένο. --- /feedback ---
 
 --- /choices ---
 

@@ -9,7 +9,7 @@ Veel plezier!
 --- question ---
 
 ---
-legend: Vraag 1 van 3
+legend: Question 1 of 3
 ---
 
 Kijk naar de volgende reeks blokken.

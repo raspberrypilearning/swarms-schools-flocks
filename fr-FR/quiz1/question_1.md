@@ -9,7 +9,7 @@ Amuse-toi bien !
 --- question ---
 
 ---
-legend: Question 1 sur 3
+legend: Question 1 of 3
 ---
 
 Regarde l'ensemble de blocs suivants.

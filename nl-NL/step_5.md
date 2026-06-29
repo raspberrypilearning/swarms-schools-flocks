@@ -44,7 +44,7 @@ Animeer je roofdier zodat het willekeurig over het speelveld beweegt, naast het 
 
 --- collapse ---
 ---
-title: Animeer een willekeurige vliegende sprite
+title: Animate a randomly flying sprite
 ---
 
 De volgende blokken zorgen ervoor dat een sprite willekeurig over het speelveld vliegt. Je kunt de waarden aanpassen om de snelheid van de sprite te veranderen.
@@ -65,7 +65,7 @@ if on edge, bounce
 
 --- collapse ---
 ---
-titel: Animeer een willekeurig lopende sprite
+title: Animate a randomly walking sprite
 ---
 
 De volgende blokken laten een sprite willekeurig bewegen langs de x-as (horizontaal). Je hebt een variabele nodig waarin je opslaat of de sprite naar links of rechts beweegt.

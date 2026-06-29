@@ -2,7 +2,7 @@
 --- question ---
 
 ---
-legend: Vraag 3 van 3
+legend: Question 3 of 3
 ---
 De volgende blokken worden gebruikt voor een **bij** sprite, om te bepalen wat er gebeurt als de **bij** een **bloemen** sprite aanraakt.
 

@@ -21,7 +21,7 @@ Fais apparaître la nourriture sur l'écran. Il pourrait apparaître dans une po
 
 --- collapse ---
 ---
-title: Faire apparaître un sprite dans une position aléatoire pendant une durée aléatoire
+title: Make a sprite appear in a random position for a random time
 ---
 
 Ajuste les plages `aléatoire`{:class='block3operators'} pour modifier la fréquence à laquelle le sprite disparaît et réapparaît.
@@ -40,7 +40,7 @@ wait (pick random (1) to (10)) seconds
 
 --- collapse ---
 ---
-title: Déplacer un sprite au hasard sur l'écran
+title: Move a sprite randomly around the screen
 ---
 
 Ajuste la plage `aléatoire`{:class='block3operators'} pour modifier la vitesse à laquelle le sprite se déplace sur l'écran.
@@ -55,7 +55,7 @@ glide (pick random (1) to (2)) secs to (random position v)
 
 --- collapse ---
 ---
-title: Faire défiler les sprites avec le mouvement de la souris
+title: Make sprites scroll with mouse motion
 ---
 
 Ajoute le code suivant à ton sprite pour le faire défiler à gauche et à droite lorsque la souris est déplacée de chaque côté de l'écran.
@@ -96,7 +96,7 @@ Ajoute du code pour que tes animaux puissent manger leur nourriture. Manger la n
 
 --- collapse ---
 ---
-title: Manger la nourriture
+title: Eat the food
 ---
 
 Un petit ajout à ton code fera disparaître la nourriture lorsqu'elle sera touchée par un clone.
@@ -122,7 +122,7 @@ hide
 
 --- collapse ---
 ---
-title: Développer un clone, créer un nouveau clone, ou augmenter un score
+title: Grow a clone, make a new clone, or increase a score
 ---
 
 Ce code permettra aux clones d'augmenter leur taille à chaque fois qu'ils mangent de la nourriture.

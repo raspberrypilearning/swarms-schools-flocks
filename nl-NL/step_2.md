@@ -35,7 +35,7 @@ Ofwel voeg extra sprites toe aan je scène, die bewegen wanneer de muis wordt ve
 
 --- collapse ---
 ---
-title: Verander een achtergrond en laat hem bewegen
+title: Convert a backdrop and make it scroll
 ---
 
 ![Een achtergrond die veranderd is naar een sprite en naar links en rechts beweegt met de muisaanwijzer.](images/scroll-background.gif)
@@ -78,7 +78,7 @@ end
 
 --- collapse ---
 ---
-title: Laat sprites bewegen met de muis
+title: Make sprites scroll with mouse motion
 ---
 
 ![Animatie met een boom die beweegt terwijl de muis is verplaatst.](images/sprite-scroll.gif)

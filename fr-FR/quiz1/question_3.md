@@ -2,7 +2,7 @@
 --- question ---
 
 ---
-legend: Question 3 sur 3
+legend: Question 3 of 3
 ---
 Les blocs suivants sont utilisés sur un sprite **abeille**, pour contrôler ce qui se passe lorsque l'*abeille** touche un sprite **fleurs**.
 

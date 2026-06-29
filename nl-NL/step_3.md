@@ -58,7 +58,7 @@ Voeg blokken toe zodat de klonen op willekeurige wijze naar de muisaanwijzer bew
 
 --- collapse ---
 ---
-title: Een willekeurige tijd gebruiken om te vliegen
+title: Gliding over a random time
 ---
 
 De volgende code laat de klonen in een willekeurige tijd naar de muisaanwijzer vliegen.
@@ -73,7 +73,7 @@ glide (pick random (1) to (3)) secs to (mouse-pointer v)
 
 --- collapse ---
 ---
-title: Een willekeurige positie gebruiken om naar de muisaanwijzer te vliegen
+title: Gliding to the mouse-pointer with a random position
 ---
 
 De volgende code laat de klonen naar de muisaanwijzer vliegen, maar op een willekeurige manier.

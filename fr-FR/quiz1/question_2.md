@@ -2,7 +2,7 @@
 --- question ---
 
 ---
-legend: Question 2 sur 3
+legend: Question 2 of 3
 ---
 
 Lequel des blocs de code suivants ferait en sorte qu'un clone se déplace continuellement dans une direction aléatoire pendant une durée aléatoire ?

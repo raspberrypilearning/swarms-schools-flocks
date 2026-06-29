@@ -21,7 +21,7 @@ Laat het eten verschijnen op het scherm. Het kan op een willekeurige positie ver
 
 --- collapse ---
 ---
-title: Laat een sprite voor een willekeurige tijd op een willekeurige positie verschijnen
+title: Make a sprite appear in a random position for a random time
 ---
 
 Pas de reeks `willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe vaak de sprite verdwijnt en weer verschijnt.
@@ -40,7 +40,7 @@ wait (pick random (1) to (10)) seconds
 
 --- collapse ---
 ---
-title: Verplaats een sprite willekeurig over het scherm
+title: Move a sprite randomly around the screen
 ---
 
 Pas de reeks `willekeurig getal tussen`{:class='block3operators'} aan om te wijzigen hoe snel de sprite over het scherm beweegt.
@@ -55,7 +55,7 @@ glide (pick random (1) to (2)) secs to (random position v)
 
 --- collapse ---
 ---
-title: Laat sprites bewegen met de muis
+title: Make sprites scroll with mouse motion
 ---
 
 Voeg de volgende code toe aan je sprite om deze naar links en rechts te laten bewegen terwijl de muis naar een van beide kanten van het scherm wordt bewogen.
@@ -96,7 +96,7 @@ Voeg code toe zodat je dieren hun voedsel kunnen eten. Als het voer wordt opgege
 
 --- collapse ---
 ---
-title: Eet het voedsel
+title: Eat the food
 ---
 
 Een kleine toevoeging aan je code zorgt ervoor dat het voedsel verdwijnt wanneer het wordt aangeraakt door een kloon.
@@ -122,7 +122,7 @@ hide
 
 --- collapse ---
 ---
-title: Maak een kloon groter, maak een nieuwe kloon of verhoog een score
+title: Grow a clone, make a new clone, or increase a score
 ---
 
 Deze code maakt het mogelijk om de klonen groter te laten worden wanneer ze wat voedsel eten.

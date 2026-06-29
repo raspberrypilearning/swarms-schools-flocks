@@ -1,19 +1,19 @@
-left
+αριστερά
 
-right
+δεξιά
 
-start
+έναρξη
 
-scroll
+σκρολάρισμα
 
-eaten
+φαγώθηκε
 
-animal
+ζώο
 
-score
+σκορ
 
-left-right
+αριστερά-δεξιά
 
-predator
+θηρευτής
 
-flower
+λουλούδι

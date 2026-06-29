@@ -35,7 +35,7 @@ Soit ajouter des sprites supplémentaires à ta scène, qui défilent lorsque la
 
 --- collapse ---
 ---
-title: Convertir un arrière-plan et le faire défiler
+title: Convert a backdrop and make it scroll
 ---
 
 ![Un arrière-plan converti en sprite et défilant à gauche et à droite avec le pointeur de souris.](images/scroll-background.gif)
@@ -78,7 +78,7 @@ end
 
 --- collapse ---
 ---
-title: Faire défiler les sprites avec le mouvement de la souris
+title: Make sprites scroll with mouse motion
 ---
 
 ![Animation montrant un arbre défilant lorsque la souris est déplacée.](images/sprite-scroll.gif)

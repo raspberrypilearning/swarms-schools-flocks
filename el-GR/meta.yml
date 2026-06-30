@@ -1,0 +1,30 @@
+---
+title: Σμήνη, κοπάδια και αγέλες
+hero_image: images/banner.png
+description: Δημιούργησε ένα παιχνίδι που χρησιμοποιεί κλώνους για να φτιάξει σμήνη, κοπάδια, αγέλες ή άλλη ομάδα ζώων.
+meta_title: Έργα προγραμματισμού Scratch για παιδιά και εφήβους | Σμήνη και αγέλες
+meta_description: Μάθε Scratch με τα έργα κώδικα του Raspberry Pi Foundation για παιδιά και εφήβους. Δημιούργησε ένα παιχνίδι με Scratch που χρησιμοποιεί κλώνους για να δημιουργήσει ομάδες ζώων.
+version: 4
+listed: true
+copyedit: true
+last_tested: '2021-06-02'
+steps:
+  - title: Θα φτιάξεις
+  - title: Δημιουργία της σκηνή κύλισης
+  - title: Πρόσθεσε τους κλώνους σου
+    completion:
+      - engaged
+  - title: Τάισε τους κλώνους σου
+  - title: Πρόσθεσε έναν θηρευτή
+    completion:
+      - internal
+  - title: Γρήγορο κουίζ
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Αναβάθμισε το έργο σου
+  - title: Μοιράσου

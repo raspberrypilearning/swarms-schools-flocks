@@ -81,7 +81,7 @@ title: Ολίσθηση προς τον δείκτη του ποντικιού �
 ```blocks3
 when I start as a clone
 forever
-glide (pick random (1) to (2)) secs to x: ((pick random (-40) to (40)) + (mouse x)) y: ((pick random (-40) to (40) + (mouse y)))
+glide (pick random (1) to (2)) secs to x: ((pick random (-40) to (40)) + (mouse x)) y: ((pick random (-40) to (40)) + (mouse y))
 ```
 
 --- /collapse ---

@@ -103,12 +103,12 @@ title: Eat the food
 
 A small addition to your code will make the food disappear when it is touched by a clone.
 
-On your **animal** sprite, add blocks so that when a clone touches the **food** sprite, it broadcasts a message.
+On your **animal** sprite, add blocks so that when a clone touches the **food** sprite, it broadcasts a message. Choose the name of your food sprite in the `touching`{:class='block3sensing'} menu.
 
 ```blocks3
 when I start as a clone
 forever
-if <touching [animal v]> then
+if <touching [food v]?> then
 broadcast (eaten v)
 end
 ```
@@ -132,7 +132,7 @@ This code will allow the clones to increase in size each time they eat some food
 ```blocks3
 when I start as a clone
 forever
-if <touching [animal v]> then
+if <touching [food v]?> then
 broadcast (eaten v)
 change size by (20)
 end
@@ -143,7 +143,7 @@ This will generate a new clone each time they eat some food.
 ```blocks3
 when I start as a clone
 forever
-if <touching [animal v]> then
+if <touching [food v]?> then
 broadcast (eaten v)
 create clone of [myself v]
 end
@@ -157,7 +157,7 @@ set [score v] to (0)
 
 when I start as a clone
 forever
-if <touching [animal v]> then
+if <touching [food v]?> then
 broadcast (eaten v)
 change [score v] by (10)
 end
